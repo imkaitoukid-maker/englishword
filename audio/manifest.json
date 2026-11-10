@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "build": "75028ffe707f3e58",
+  "build": "cd067747ac867f0d",
   "generator": "Kokoro-82M v1.0 (FP32 ONNX)",
   "runtime": "ONNX Runtime CPU",
   "voice": "af_heart",
-  "speed": 0.85,
+  "speed": 1.0,
   "format": "mp3",
   "wordCount": 77,
   "clipCount": 154,
-  "generatedAt": "2026-11-10T00:58:13.369274+00:00",
+  "generatedAt": "2026-11-10T06:12:44.211789+00:00",
   "sourceSha256": "2aa562b3e8ea26cb55c35341c2738b5df71ec25e1cf755d7544e6146a5e58b2c",
   "clips": [
     {
@@ -16,1694 +16,1694 @@
       "kind": "word",
       "text": "family",
       "path": "audio/words/family.mp3",
-      "bytes": 18432,
-      "sha256": "50ef7771dbadc164d82ee3413bc49479f2bb0da6bfe35a46b3f89ccd3b899a41",
-      "durationSeconds": 1.152,
+      "bytes": 15744,
+      "sha256": "e3321287efc1c58f23d25b7c283072bdeea5ffa07f1620a3dd44106993bd0b91",
+      "durationSeconds": 0.984,
       "sampleRate": 24000,
-      "rms": 0.0572994
+      "rms": 0.05796
     },
     {
       "id": "family",
       "kind": "sentence",
       "text": "This is my family.",
       "path": "audio/sentences/family.mp3",
-      "bytes": 25728,
-      "sha256": "7de961bbd2f9f707e616b8086ae80aa0925bd03f8f3ea416878741d7cdef3e77",
-      "durationSeconds": 1.608,
+      "bytes": 23040,
+      "sha256": "f583b804b9801bfdeb9ab43719c9ee4d0de664530c14b44d53be0b1c414c7e5d",
+      "durationSeconds": 1.44,
       "sampleRate": 24000,
-      "rms": 0.0576259
+      "rms": 0.0574851
     },
     {
       "id": "father",
       "kind": "word",
       "text": "father",
       "path": "audio/words/father.mp3",
-      "bytes": 17664,
-      "sha256": "dd4118523aeaa3656250688cc2c86eec0dc5a0c43ca48902dc6ea6c9c41ae787",
-      "durationSeconds": 1.104,
+      "bytes": 14976,
+      "sha256": "efb34f6795860b9108d1af06c359dcb8eaccba0269ad1767f8bb6e517cf80f60",
+      "durationSeconds": 0.936,
       "sampleRate": 24000,
-      "rms": 0.0547662
+      "rms": 0.0559534
     },
     {
       "id": "father",
       "kind": "sentence",
       "text": "This is my father.",
       "path": "audio/sentences/father.mp3",
-      "bytes": 24960,
-      "sha256": "fe217dadbe20a74444f071929e8bb0d154beb96c1997eca6dc6f0380d096c582",
-      "durationSeconds": 1.56,
+      "bytes": 21888,
+      "sha256": "352af090ebae17040356f5558b91669f3adb3400ee95248a62606c5587a348e7",
+      "durationSeconds": 1.368,
       "sampleRate": 24000,
-      "rms": 0.0579377
+      "rms": 0.0588226
     },
     {
       "id": "dad",
       "kind": "word",
       "text": "dad",
       "path": "audio/words/dad.mp3",
-      "bytes": 14976,
-      "sha256": "e995eb9a07c4ad18488bbf65d49bf01cea97530dee487c32a36f7b1002487e62",
-      "durationSeconds": 0.936,
+      "bytes": 12672,
+      "sha256": "1fa9ab6e54568a820c6b1babeeea1d1b99f75c0c153a7b4fb0b5271163783fe4",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0528468
+      "rms": 0.0543313
     },
     {
       "id": "dad",
       "kind": "sentence",
       "text": "This is my dad.",
       "path": "audio/sentences/dad.mp3",
-      "bytes": 22656,
-      "sha256": "9aff942abc74fa49bf9e3d5a6e02840f58783c67b3914a98812f7f6a861a691e",
-      "durationSeconds": 1.416,
+      "bytes": 20736,
+      "sha256": "44c52b9ab03cff921fb6eefd68d8ddba5b4cebf92d703a1d0623af3924c81ad2",
+      "durationSeconds": 1.296,
       "sampleRate": 24000,
-      "rms": 0.0571108
+      "rms": 0.0574771
     },
     {
       "id": "mother",
       "kind": "word",
       "text": "mother",
       "path": "audio/words/mother.mp3",
-      "bytes": 11520,
-      "sha256": "4eb0bd6b35b773a1334a30181cbb874cf5424a4dc388e79a54ebf7b728ae903f",
-      "durationSeconds": 0.72,
+      "bytes": 10368,
+      "sha256": "2e29b522b16285fb116d425d28c9362e29312cb4383e1a68c97fd3d67bf69ad4",
+      "durationSeconds": 0.648,
       "sampleRate": 24000,
-      "rms": 0.0654257
+      "rms": 0.0635052
     },
     {
       "id": "mother",
       "kind": "sentence",
       "text": "This is my mother.",
       "path": "audio/sentences/mother.mp3",
-      "bytes": 23424,
-      "sha256": "0f9f19e7e247bf1d0e8d5b85e5ed3dbca0c4fdb28297005f8b71d19b14cf1c2a",
-      "durationSeconds": 1.464,
+      "bytes": 21120,
+      "sha256": "cdd2820c57ce6138073cd0cf67c4cb649c14e24c352e4f29a09fbbdcea1707f0",
+      "durationSeconds": 1.32,
       "sampleRate": 24000,
-      "rms": 0.0572971
+      "rms": 0.0581097
     },
     {
       "id": "mum",
       "kind": "word",
       "text": "mum",
       "path": "audio/words/mum.mp3",
-      "bytes": 14592,
-      "sha256": "d16b2bdde74818a2ecb96e3c65e6b5e81da3ac3ef86fa805df3bc38ee5ec6ad6",
-      "durationSeconds": 0.912,
+      "bytes": 12288,
+      "sha256": "1cbd05774bec3a3be9da309f370be38049ac48fbe29687c2706ef394dab34707",
+      "durationSeconds": 0.768,
       "sampleRate": 24000,
-      "rms": 0.0625009
+      "rms": 0.0628117
     },
     {
       "id": "mum",
       "kind": "sentence",
       "text": "This is my mum.",
       "path": "audio/sentences/mum.mp3",
-      "bytes": 21888,
-      "sha256": "996bd4da3d0c149d749d8e3064fe1c77263d2eb1c5d20d3f3874146de2c0b7a5",
-      "durationSeconds": 1.368,
+      "bytes": 19584,
+      "sha256": "fc4b6029bd4cab02cde3618091846c5c7c766abd9dcf883cadad9bc7a2a1c302",
+      "durationSeconds": 1.224,
       "sampleRate": 24000,
-      "rms": 0.0578217
+      "rms": 0.0585998
     },
     {
       "id": "grandpa",
       "kind": "word",
       "text": "grandpa",
       "path": "audio/words/grandpa.mp3",
-      "bytes": 18816,
-      "sha256": "7f56244fe62038829e290f82b14ad4e6696adbc811615bf2f94a37ce019f73aa",
-      "durationSeconds": 1.176,
+      "bytes": 16896,
+      "sha256": "d270840fdcf62a07edc60e9bf02b2177225b5abcafc3921100d33e4fb1cf174a",
+      "durationSeconds": 1.056,
       "sampleRate": 24000,
-      "rms": 0.0598855
+      "rms": 0.0606478
     },
     {
       "id": "grandpa",
       "kind": "sentence",
       "text": "This is my grandpa.",
       "path": "audio/sentences/grandpa.mp3",
-      "bytes": 29184,
-      "sha256": "c692f9bf115b61f1fb101615d00047ca78c5fbf5666f098c860b2e6f719c9800",
-      "durationSeconds": 1.824,
+      "bytes": 24576,
+      "sha256": "d88e71444528e152e773a78a275e36ab145012f793f623dfcec56e976b752a87",
+      "durationSeconds": 1.536,
       "sampleRate": 24000,
-      "rms": 0.0552589
+      "rms": 0.055785
     },
     {
       "id": "grandma",
       "kind": "word",
       "text": "grandma",
       "path": "audio/words/grandma.mp3",
-      "bytes": 19200,
-      "sha256": "5c05ca8724907756c7ebdc35d08dd20c265e0ae5647ac7f9f592cb92710e092e",
-      "durationSeconds": 1.2,
+      "bytes": 16128,
+      "sha256": "6d8bd032bea445ee2a8503943f32cc0ff57283fd0bcb38766e717375cedec909",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.05685
+      "rms": 0.0590327
     },
     {
       "id": "grandma",
       "kind": "sentence",
       "text": "This is my grandma.",
       "path": "audio/sentences/grandma.mp3",
-      "bytes": 28032,
-      "sha256": "06498e33a7947c0f3f1a8a319f4045e78b1061839dba1d8d62cfc121d2393d45",
-      "durationSeconds": 1.752,
+      "bytes": 24192,
+      "sha256": "a125a9491bd325eb55462f983992819168997399029fc0335741a5091df8f98f",
+      "durationSeconds": 1.512,
       "sampleRate": 24000,
-      "rms": 0.0548459
+      "rms": 0.0554893
     },
     {
       "id": "sister",
       "kind": "word",
       "text": "sister",
       "path": "audio/words/sister.mp3",
-      "bytes": 17280,
-      "sha256": "feb7bbf9c5ff88149a9f865b9a6f4bf9392f4645b2c3e4452c3bd3d5edd49a51",
-      "durationSeconds": 1.08,
+      "bytes": 14976,
+      "sha256": "ebbe5eed5f214d0583d7a6bb1091a98acee9882017c7fcad168d868c6d436326",
+      "durationSeconds": 0.936,
       "sampleRate": 24000,
-      "rms": 0.0548611
+      "rms": 0.0564501
     },
     {
       "id": "sister",
       "kind": "sentence",
       "text": "This is my sister.",
       "path": "audio/sentences/sister.mp3",
-      "bytes": 24960,
-      "sha256": "f049b85ddc500796fe4668b5de2115fd1f6675086fe1acbd760a78277faea909",
-      "durationSeconds": 1.56,
+      "bytes": 22656,
+      "sha256": "4694888d7590ca02dfe8149820e2b03c56d16e3c250b380e63acf1195518ffc7",
+      "durationSeconds": 1.416,
       "sampleRate": 24000,
-      "rms": 0.0568664
+      "rms": 0.0571172
     },
     {
       "id": "brother",
       "kind": "word",
       "text": "brother",
       "path": "audio/words/brother.mp3",
-      "bytes": 12672,
-      "sha256": "da9031ce853458e97ef375b5e94a5a666936fdd63646e48d267522c0819d3d81",
-      "durationSeconds": 0.792,
+      "bytes": 11520,
+      "sha256": "40e6137c860a929465df3bc819c5588c1b87096ca6c7c951181d23083eebd3dd",
+      "durationSeconds": 0.72,
       "sampleRate": 24000,
-      "rms": 0.0597727
+      "rms": 0.0584319
     },
     {
       "id": "brother",
       "kind": "sentence",
       "text": "This is my brother.",
       "path": "audio/sentences/brother.mp3",
-      "bytes": 24192,
-      "sha256": "63434b19b15f503d81c8f17b0ea4ce834be10c9aa42d0f213d03a7f55c58cd3f",
-      "durationSeconds": 1.512,
+      "bytes": 21888,
+      "sha256": "f60bce5c601d0770084cc19cdd5a9c4c92312bd8055a68fc175674c42ebaec1d",
+      "durationSeconds": 1.368,
       "sampleRate": 24000,
-      "rms": 0.0571686
+      "rms": 0.0578638
     },
     {
       "id": "baby",
       "kind": "word",
       "text": "baby",
       "path": "audio/words/baby.mp3",
-      "bytes": 14976,
-      "sha256": "e1672bad5609aadfeb5266a1eaee74c3099ece3d727ec70556b058d849bf0f9b",
-      "durationSeconds": 0.936,
+      "bytes": 13056,
+      "sha256": "c7cfe05427eb39f6ded477ca234163f51eb167ba3ec491dbe714c3b76f404f9a",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0583696
+      "rms": 0.0594805
     },
     {
       "id": "baby",
       "kind": "sentence",
       "text": "This is my baby.",
       "path": "audio/sentences/baby.mp3",
-      "bytes": 24960,
-      "sha256": "092bd5e3e1b114a8353a94651dbd76a8d80a187cd365fd032fcb2ef01add6b8e",
-      "durationSeconds": 1.56,
+      "bytes": 22272,
+      "sha256": "70667a24cea83ce79c0358fa665be28263b931adf4ed4266e9ec1df3846a5590",
+      "durationSeconds": 1.392,
       "sampleRate": 24000,
-      "rms": 0.0562797
+      "rms": 0.056401
     },
     {
       "id": "apple",
       "kind": "word",
       "text": "apple",
       "path": "audio/words/apple.mp3",
-      "bytes": 17280,
-      "sha256": "9a63292003bb3a839612b6d77dea41334215df3dde58b6845847858e49428908",
-      "durationSeconds": 1.08,
+      "bytes": 15360,
+      "sha256": "667e62d0bae6bbc8f108d2050995815f9bfa3d7f54ee7c78f2cd4324d996e7a3",
+      "durationSeconds": 0.96,
       "sampleRate": 24000,
-      "rms": 0.0517693
+      "rms": 0.0530203
     },
     {
       "id": "apple",
       "kind": "sentence",
       "text": "It's an apple.",
       "path": "audio/sentences/apple.mp3",
-      "bytes": 20736,
-      "sha256": "f8a48c190ee0fcba0b41ff10aafc268ae5f4bef8a51ee4f8f1dda93e5e07b6d4",
-      "durationSeconds": 1.296,
+      "bytes": 18432,
+      "sha256": "b3be675d84eef8f00b2f065827cf11d47f91e36a461f2e84a0bd17254be5b48e",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.0611605
+      "rms": 0.058886
     },
     {
       "id": "banana",
       "kind": "word",
       "text": "banana",
       "path": "audio/words/banana.mp3",
-      "bytes": 16512,
-      "sha256": "734f79492334367316f16dfa89f6dce5539ac802d523d63e4d0586f17c85a988",
-      "durationSeconds": 1.032,
+      "bytes": 14592,
+      "sha256": "4c68502fa9e724bd536b66a713b85651d598a5ba188278c0103508b29914f742",
+      "durationSeconds": 0.912,
       "sampleRate": 24000,
-      "rms": 0.0603441
+      "rms": 0.0607071
     },
     {
       "id": "banana",
       "kind": "sentence",
       "text": "It's a banana.",
       "path": "audio/sentences/banana.mp3",
-      "bytes": 22272,
-      "sha256": "f1f14535104ad6b74edf65780057da70922d27c123549573445c13baa7e8124c",
-      "durationSeconds": 1.392,
+      "bytes": 19200,
+      "sha256": "fdf6dfc9d60b4e68faf77763dc4b6ad0640c902c95871c350a307f02fd8556ce",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.0568557
+      "rms": 0.0574866
     },
     {
       "id": "pear",
       "kind": "word",
       "text": "pear",
       "path": "audio/words/pear.mp3",
-      "bytes": 14208,
-      "sha256": "ca5ef5d705f7dcbe08c10de6a65779674b922f68912266e3056c2a8e188cefa7",
-      "durationSeconds": 0.888,
+      "bytes": 12672,
+      "sha256": "a15ce75ad0f28f31b79228a98190212e211c413dc282e3ef4240bda023fa1cee",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.054031
+      "rms": 0.0553629
     },
     {
       "id": "pear",
       "kind": "sentence",
       "text": "It's a pear.",
       "path": "audio/sentences/pear.mp3",
-      "bytes": 19968,
-      "sha256": "87a057f6bb5dc648c585bc36fab4e293c2832b5d0e4cbb8f3b2fafcd28d90ffc",
-      "durationSeconds": 1.248,
+      "bytes": 16896,
+      "sha256": "86d2153a831948bd3fb221d37278d4edfc932574d09e365af14076ed26cbc70b",
+      "durationSeconds": 1.056,
       "sampleRate": 24000,
-      "rms": 0.0587777
+      "rms": 0.0582606
     },
     {
       "id": "orange",
       "kind": "word",
       "text": "orange",
       "path": "audio/words/orange.mp3",
-      "bytes": 18432,
-      "sha256": "41a3c07e5aba1ea9ed5b0b946057e5f5f68d93d9b8ed03f7d5652340c99cd9b8",
-      "durationSeconds": 1.152,
+      "bytes": 16128,
+      "sha256": "33b31ae1e4e655b3c257d7de1b4366f8dcfb54e79c6560ee2c8c3cd9ed9ae35e",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.05767
+      "rms": 0.058222
     },
     {
       "id": "orange",
       "kind": "sentence",
       "text": "It's an orange.",
       "path": "audio/sentences/orange.mp3",
-      "bytes": 22272,
-      "sha256": "969a2ab6b1f01bcd4ae3c50148356d13a09db3b65bc59e69913794a4ec39a8ce",
-      "durationSeconds": 1.392,
+      "bytes": 19584,
+      "sha256": "18f6dec9387e48c88ad3021415f1633c6d795e09c4cdf1e5ab9dd49d30224716",
+      "durationSeconds": 1.224,
       "sampleRate": 24000,
-      "rms": 0.0598911
+      "rms": 0.058774
     },
     {
       "id": "grape",
       "kind": "word",
       "text": "grape",
       "path": "audio/words/grape.mp3",
-      "bytes": 16128,
-      "sha256": "c60e775c6a4ad3a9e293f91bbc792789b282a34a17c4d5e2d238a71de0502b16",
-      "durationSeconds": 1.008,
+      "bytes": 13440,
+      "sha256": "186ec2b9fe078f79226b3cbf9176f81d6811ddcfc70c8cd4ea9e8bf907c9e209",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.057924
+      "rms": 0.0599051
     },
     {
       "id": "grape",
       "kind": "sentence",
       "text": "It's a grape.",
       "path": "audio/sentences/grape.mp3",
-      "bytes": 20352,
-      "sha256": "82ae869e55a414b38e06e84f7876c1bae2e5cbb9110b00a7e96aa3d880a2b20e",
-      "durationSeconds": 1.272,
+      "bytes": 18048,
+      "sha256": "e56058581154846a59e45d1d311f9af9321eefc4a215d83033f0b2a39b25624a",
+      "durationSeconds": 1.128,
       "sampleRate": 24000,
-      "rms": 0.0584586
+      "rms": 0.0581604
     },
     {
       "id": "watermelon",
       "kind": "word",
       "text": "watermelon",
       "path": "audio/words/watermelon.mp3",
-      "bytes": 20736,
-      "sha256": "5e38dd501ef63c34dd2f0a58a8e37f503b2a2d9f66477b8ffc3a67a40fb52c2c",
-      "durationSeconds": 1.296,
+      "bytes": 18432,
+      "sha256": "83a48de141038741d6fbb6b21b488f0166daa20b16234d3e4a0e8d242c60407a",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.0559722
+      "rms": 0.0575322
     },
     {
       "id": "watermelon",
       "kind": "sentence",
       "text": "It's a watermelon.",
       "path": "audio/sentences/watermelon.mp3",
-      "bytes": 24960,
-      "sha256": "29284412cab5893f7980357c6fadb74c7838fdffd0fcfe5c5d1e52070e4a6fcf",
-      "durationSeconds": 1.56,
+      "bytes": 22272,
+      "sha256": "555950e297a8062e26032bd3f8c95e56f7c6f55dbef612019efbb3c0150ac128",
+      "durationSeconds": 1.392,
       "sampleRate": 24000,
-      "rms": 0.0552638
+      "rms": 0.0559722
     },
     {
       "id": "peach",
       "kind": "word",
       "text": "peach",
       "path": "audio/words/peach.mp3",
-      "bytes": 15360,
-      "sha256": "a367aae589f582b8e46cfc592e025879ba5d9a306077dbd47aef4f83d6b38bd8",
-      "durationSeconds": 0.96,
+      "bytes": 13056,
+      "sha256": "acce5c1ea757e55eb095d1d3602df3cb776d098277a126da0dfbea4f33d6ed5c",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0561902
+      "rms": 0.056564
     },
     {
       "id": "peach",
       "kind": "sentence",
       "text": "It's a peach.",
       "path": "audio/sentences/peach.mp3",
-      "bytes": 20736,
-      "sha256": "777f73e1c5bb9deec31468b889d692cdf6ba40acbfe168af0041d6f64be86413",
-      "durationSeconds": 1.296,
+      "bytes": 18432,
+      "sha256": "3e4629e3d265951ace37a3781fe9cc3e6ef4314e6ca24c93589f2f7eb678572f",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.05834
+      "rms": 0.0563402
     },
     {
       "id": "cat",
       "kind": "word",
       "text": "cat",
       "path": "audio/words/cat.mp3",
-      "bytes": 13440,
-      "sha256": "873b410496ae9188d639ce4a9223a2bbc18b15cc3894570d8908ffae876f1392",
-      "durationSeconds": 0.84,
+      "bytes": 12672,
+      "sha256": "d2f11ff392394c4bdfd2682513de893af6d04847c3286162b2a141b534c94eb3",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0518365
+      "rms": 0.0487453
     },
     {
       "id": "cat",
       "kind": "sentence",
       "text": "It's a cat.",
       "path": "audio/sentences/cat.mp3",
-      "bytes": 19200,
-      "sha256": "a7d3d241a9bc6ef71853fccee15cf7b79883516dd3ef2b130b80ad84cfdb9e28",
-      "durationSeconds": 1.2,
+      "bytes": 17280,
+      "sha256": "96d8a271075d7da2f1a507a15f6423393e7e96392a1d54f228e118a9d46256f4",
+      "durationSeconds": 1.08,
       "sampleRate": 24000,
-      "rms": 0.060092
+      "rms": 0.0587013
     },
     {
       "id": "dog",
       "kind": "word",
       "text": "dog",
       "path": "audio/words/dog.mp3",
-      "bytes": 14976,
-      "sha256": "a6536ac1fac450d3e78436060398893b67817dcdbf5458d21f8d1cadf7d8afac",
-      "durationSeconds": 0.936,
+      "bytes": 12672,
+      "sha256": "e34cc61161926e25580a2ed6233c1be53d2d416e24d774467f52feb7fe78a9ff",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0563574
+      "rms": 0.0575029
     },
     {
       "id": "dog",
       "kind": "sentence",
       "text": "It's a dog.",
       "path": "audio/sentences/dog.mp3",
-      "bytes": 19968,
-      "sha256": "a9ae92bbdccd4b8b72b6a5ae41189f375f35789d6c45ee891ac7bf9939dcf123",
-      "durationSeconds": 1.248,
+      "bytes": 18048,
+      "sha256": "722417979615c1302768ceee2256cbcd32036e49b3785c92cac9d2df5a01fa16",
+      "durationSeconds": 1.128,
       "sampleRate": 24000,
-      "rms": 0.058083
+      "rms": 0.0565218
     },
     {
       "id": "bird",
       "kind": "word",
       "text": "bird",
       "path": "audio/words/bird.mp3",
-      "bytes": 15360,
-      "sha256": "4c0fb34ab24aa37722267dc719bd8dd177844572b5d803674a4cfd874a20ab66",
-      "durationSeconds": 0.96,
+      "bytes": 12672,
+      "sha256": "2501a044cd807142c9e68ce66e672b0a6ce6cd81c2a7bcb08895eb09df72c625",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0577809
+      "rms": 0.0592146
     },
     {
       "id": "bird",
       "kind": "sentence",
       "text": "It's a bird.",
       "path": "audio/sentences/bird.mp3",
-      "bytes": 19584,
-      "sha256": "b6c2d79819907657fce8f4eacbaad6a762b0d4cadaa8cebf1a0314f2168bda3a",
-      "durationSeconds": 1.224,
+      "bytes": 18432,
+      "sha256": "f48fa6ad4c546345f1cd2ec38ce45e2c0ce10e188e05f7f2334e94212741dd98",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.0589331
+      "rms": 0.0573681
     },
     {
       "id": "fish",
       "kind": "word",
       "text": "fish",
       "path": "audio/words/fish.mp3",
-      "bytes": 15744,
-      "sha256": "a166cd6273b3b4c41216d68151169c508580bac89c220842f8426451568d68ed",
-      "durationSeconds": 0.984,
+      "bytes": 13440,
+      "sha256": "842698797363e58ff9e3c1998bfeb494097b460fb5a0dc9004e1b2e46c2684a8",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.0541543
+      "rms": 0.0548499
     },
     {
       "id": "fish",
       "kind": "sentence",
       "text": "It's a fish.",
       "path": "audio/sentences/fish.mp3",
-      "bytes": 20352,
-      "sha256": "21deb52cc45472ea7aa2bcba7e6248745ed020174265d15beec96f91b2df7789",
-      "durationSeconds": 1.272,
+      "bytes": 18048,
+      "sha256": "d64e2e598571dcd767e7d75efd75e39f27ed9be310013eb02ee513e8eeff4c15",
+      "durationSeconds": 1.128,
       "sampleRate": 24000,
-      "rms": 0.0569955
+      "rms": 0.056288
     },
     {
       "id": "eye",
       "kind": "word",
       "text": "eye",
       "path": "audio/words/eye.mp3",
-      "bytes": 14976,
-      "sha256": "fbbd1e0009c5880e8d2b1b7eafd967874a0740dcf6e468233d121661f2b59d18",
-      "durationSeconds": 0.936,
+      "bytes": 13056,
+      "sha256": "58c25585cd482bb0b1e3732eec7fd8aa18368d90e373b6e7920a820dcccd7b80",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0506601
+      "rms": 0.0523512
     },
     {
       "id": "eye",
       "kind": "sentence",
       "text": "This is my eye.",
       "path": "audio/sentences/eye.mp3",
-      "bytes": 22272,
-      "sha256": "81b8c593e7d049c298bc79b5991459868ea73d0f90685cd0ccbb18b3fb4f4bd5",
-      "durationSeconds": 1.392,
+      "bytes": 19968,
+      "sha256": "cf3267c8c0e8a186d7e34f6c3b8cd6525d7a12fdd39e2748e62fd9eca7b42647",
+      "durationSeconds": 1.248,
       "sampleRate": 24000,
-      "rms": 0.0573427
+      "rms": 0.0583489
     },
     {
       "id": "ear",
       "kind": "word",
       "text": "ear",
       "path": "audio/words/ear.mp3",
-      "bytes": 13824,
-      "sha256": "f4390f9180fa547322f070d1b5d308dabf46deafde8b0102ce7ea4ef8a67ab6e",
-      "durationSeconds": 0.864,
+      "bytes": 12288,
+      "sha256": "974c90d9a6dff6e8acae4e76808babb05a7f6921e84cff53c8428cdaaa63c811",
+      "durationSeconds": 0.768,
       "sampleRate": 24000,
-      "rms": 0.0576989
+      "rms": 0.0575537
     },
     {
       "id": "ear",
       "kind": "sentence",
       "text": "This is my ear.",
       "path": "audio/sentences/ear.mp3",
-      "bytes": 22272,
-      "sha256": "b9d3e8a940d9fb492ce10ccb2c1b49cfac95fdf005f9ba6b4c4eb55edafc4cd6",
-      "durationSeconds": 1.392,
+      "bytes": 19584,
+      "sha256": "4c540261af0f128a35ae1095f3b83c93bf915b76ab77fe30d41c6041e6fb9acd",
+      "durationSeconds": 1.224,
       "sampleRate": 24000,
-      "rms": 0.0584282
+      "rms": 0.0584292
     },
     {
       "id": "nose",
       "kind": "word",
       "text": "nose",
       "path": "audio/words/nose.mp3",
-      "bytes": 17280,
-      "sha256": "1c07714c7ba4e9d8cbc14d5157062ef092b074e4aff79a8fdc66e69b9c50ad3b",
-      "durationSeconds": 1.08,
+      "bytes": 14976,
+      "sha256": "7ccbcdb94012bfa6ad7f4b5212985efc216b056b21568ad77c94f81695d03224",
+      "durationSeconds": 0.936,
       "sampleRate": 24000,
-      "rms": 0.0598139
+      "rms": 0.0609713
     },
     {
       "id": "nose",
       "kind": "sentence",
       "text": "This is my nose.",
       "path": "audio/sentences/nose.mp3",
-      "bytes": 23808,
-      "sha256": "66c9b500583942f4106796271b4d6e275ee4d7faf1106df70c193b28741a47d2",
-      "durationSeconds": 1.488,
+      "bytes": 22272,
+      "sha256": "d70b468dc387ab948552761b48a34080586769898b78e8e16e37783ad7cecf3e",
+      "durationSeconds": 1.392,
       "sampleRate": 24000,
-      "rms": 0.0560396
+      "rms": 0.0554703
     },
     {
       "id": "mouth",
       "kind": "word",
       "text": "mouth",
       "path": "audio/words/mouth.mp3",
-      "bytes": 15744,
-      "sha256": "0f0bacbf5b1e2947f21ff5386faba4916cb9775f4a72512823dbf07b5d4fc529",
-      "durationSeconds": 0.984,
+      "bytes": 13056,
+      "sha256": "957ecf6ec910f0f8370fb6f486a0e92ec33cef5d4ed66d83c16bad5cbb3091c3",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0597654
+      "rms": 0.0597277
     },
     {
       "id": "mouth",
       "kind": "sentence",
       "text": "This is my mouth.",
       "path": "audio/sentences/mouth.mp3",
-      "bytes": 23040,
-      "sha256": "ed68bd1fade241bd94338ada877abc5e654273f07c925a75d333a7fcf49f6616",
-      "durationSeconds": 1.44,
+      "bytes": 21120,
+      "sha256": "da3794c1d7952b0e66e817371abec61c807c7c4cbfb7272ca24d4e48827f540c",
+      "durationSeconds": 1.32,
       "sampleRate": 24000,
-      "rms": 0.0574586
+      "rms": 0.057277
     },
     {
       "id": "face",
       "kind": "word",
       "text": "face",
       "path": "audio/words/face.mp3",
-      "bytes": 17280,
-      "sha256": "201ef74301156fb47dbe25c5bcb33b3fccac90e212e75ddc3fd50272df7e1fa5",
-      "durationSeconds": 1.08,
+      "bytes": 14592,
+      "sha256": "3eec295ce22c7441697a65342eef10d1fb4300ed6c3886b34a76ebb0e2fa9cdd",
+      "durationSeconds": 0.912,
       "sampleRate": 24000,
-      "rms": 0.0536581
+      "rms": 0.055755
     },
     {
       "id": "face",
       "kind": "sentence",
       "text": "This is my face.",
       "path": "audio/sentences/face.mp3",
-      "bytes": 24192,
-      "sha256": "8c7907c384f5b72150371fa2f30466408e5051e93f352f510df23eb0470aa436",
-      "durationSeconds": 1.512,
+      "bytes": 21888,
+      "sha256": "798bfb5a3166f7ca8109d3c648a07169f174c2d848c27f8d8c65498f6c0800f8",
+      "durationSeconds": 1.368,
       "sampleRate": 24000,
-      "rms": 0.057509
+      "rms": 0.0573197
     },
     {
       "id": "head",
       "kind": "word",
       "text": "head",
       "path": "audio/words/head.mp3",
-      "bytes": 13056,
-      "sha256": "214bef6db5cb76d710751ec46ee874a2590d7025f814160af42f54c4a291d9c8",
-      "durationSeconds": 0.816,
+      "bytes": 11520,
+      "sha256": "50b653838653870d50222137dc19cd7e4800572082afa1855b3ec7651892f923",
+      "durationSeconds": 0.72,
       "sampleRate": 24000,
-      "rms": 0.0550193
+      "rms": 0.0559294
     },
     {
       "id": "head",
       "kind": "sentence",
       "text": "This is my head.",
       "path": "audio/sentences/head.mp3",
-      "bytes": 22272,
-      "sha256": "b8b0167fda660918055a058194ec07f114246f2192e9be78e0cd47c5ffd8dfd9",
-      "durationSeconds": 1.392,
+      "bytes": 20352,
+      "sha256": "5fb6b448939de7141f8c6f8766a06fc41090b9bb2746dda64fe59e0668ff0fd2",
+      "durationSeconds": 1.272,
       "sampleRate": 24000,
-      "rms": 0.0577459
+      "rms": 0.0571158
     },
     {
       "id": "hand",
       "kind": "word",
       "text": "hand",
       "path": "audio/words/hand.mp3",
-      "bytes": 16128,
-      "sha256": "5911799356d04044fc158aeb8853a253957ad5345f06ce21be98a1bf626a36e7",
-      "durationSeconds": 1.008,
+      "bytes": 13824,
+      "sha256": "68126fd5a14bf922752ec59439b4f0692d070a5109b245b9b5917b4ce1d20db8",
+      "durationSeconds": 0.864,
       "sampleRate": 24000,
-      "rms": 0.0535868
+      "rms": 0.0560943
     },
     {
       "id": "hand",
       "kind": "sentence",
       "text": "This is my hand.",
       "path": "audio/sentences/hand.mp3",
-      "bytes": 23040,
-      "sha256": "2839951c5606cee058e8f9fddea66b2b4abb431add12e8b25d80bf43478d5856",
-      "durationSeconds": 1.44,
+      "bytes": 21120,
+      "sha256": "67d5ffed9367bad7731e0ee29d10601ce0aaa0c9991ffb936ae421c974605fca",
+      "durationSeconds": 1.32,
       "sampleRate": 24000,
-      "rms": 0.0579036
+      "rms": 0.0574349
     },
     {
       "id": "arm",
       "kind": "word",
       "text": "arm",
       "path": "audio/words/arm.mp3",
-      "bytes": 10752,
-      "sha256": "33a3f98a1bcf510d366e581e63a77f8e4ff3870e3a8ad3a0df37e12e15cc4c95",
-      "durationSeconds": 0.672,
+      "bytes": 9984,
+      "sha256": "f681e5333f6bbff7d8bbf7f4f80e453f662ae738711b5d67002e1ffc9f752817",
+      "durationSeconds": 0.624,
       "sampleRate": 24000,
-      "rms": 0.0515036
+      "rms": 0.0506666
     },
     {
       "id": "arm",
       "kind": "sentence",
       "text": "This is my arm.",
       "path": "audio/sentences/arm.mp3",
-      "bytes": 23424,
-      "sha256": "b92f8a5d7e90318bda0a26a64680610a834c03861e6514560ca12fe1f9f4eace",
-      "durationSeconds": 1.464,
+      "bytes": 20736,
+      "sha256": "a36369401f6b3290c390b3511ed5ac3ef48af308acaa1186c991e1e472a358d8",
+      "durationSeconds": 1.296,
       "sampleRate": 24000,
-      "rms": 0.056764
+      "rms": 0.0571059
     },
     {
       "id": "leg",
       "kind": "word",
       "text": "leg",
       "path": "audio/words/leg.mp3",
-      "bytes": 14976,
-      "sha256": "e9a7d73fc536f5ee607b6c596031db119b4329b043f748bc26eec659872ff63e",
-      "durationSeconds": 0.936,
+      "bytes": 13056,
+      "sha256": "f6ed12a79ac3d75eeb8f3a50980d4b3efe4884765a8b34b4934078aa57762180",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0559054
+      "rms": 0.0568165
     },
     {
       "id": "leg",
       "kind": "sentence",
       "text": "This is my leg.",
       "path": "audio/sentences/leg.mp3",
-      "bytes": 22272,
-      "sha256": "62035726964e5ff42959ee10e2180323a2a6500f4f4779afd4239e33cf582c6a",
-      "durationSeconds": 1.392,
+      "bytes": 19968,
+      "sha256": "da4c5186e5b106ebc0cdf96070a55a3a18af7e52af036df9b49e4974820a33e4",
+      "durationSeconds": 1.248,
       "sampleRate": 24000,
-      "rms": 0.0579022
+      "rms": 0.0579233
     },
     {
       "id": "foot",
       "kind": "word",
       "text": "foot",
       "path": "audio/words/foot.mp3",
-      "bytes": 13824,
-      "sha256": "eda654f93ac1ed7404fe31d463fdeeb91d381b7612daddfdb41a3dc2301e971b",
-      "durationSeconds": 0.864,
+      "bytes": 11520,
+      "sha256": "e747a2ac241c0cdb6fdcf28f53e76411cbe6a2a31deb4a32091c893cffceba41",
+      "durationSeconds": 0.72,
       "sampleRate": 24000,
-      "rms": 0.0577506
+      "rms": 0.0579887
     },
     {
       "id": "foot",
       "kind": "sentence",
       "text": "This is my foot.",
       "path": "audio/sentences/foot.mp3",
-      "bytes": 22656,
-      "sha256": "0a8482b99ee05267ab9253af3b425321771a1142fef4dbd89d29274cd8f1093a",
-      "durationSeconds": 1.416,
+      "bytes": 21120,
+      "sha256": "026b5601ab02d0f37236a69c51eee01170e903c1deb490a6149e7b798234ddc5",
+      "durationSeconds": 1.32,
       "sampleRate": 24000,
-      "rms": 0.0588941
+      "rms": 0.0585321
     },
     {
       "id": "red",
       "kind": "word",
       "text": "red",
       "path": "audio/words/red.mp3",
-      "bytes": 13056,
-      "sha256": "fb4ea0f50c040b6942a53739e58e3a298cf5ae982db1a5e59c3cdae563d84cb7",
-      "durationSeconds": 0.816,
+      "bytes": 11136,
+      "sha256": "f9f1c8de04cfb8c5da5fcc63c0c98c7e7e36f29dd693153eb9b4ef20a099e1e6",
+      "durationSeconds": 0.696,
       "sampleRate": 24000,
-      "rms": 0.0594033
+      "rms": 0.0601463
     },
     {
       "id": "red",
       "kind": "sentence",
       "text": "It's red.",
       "path": "audio/sentences/red.mp3",
-      "bytes": 17664,
-      "sha256": "efd91e598b395894b27ce7a26fecdc5746570f07e2d4569f1785cf006fdc1795",
-      "durationSeconds": 1.104,
+      "bytes": 15744,
+      "sha256": "b969bef5b34df55bd6a7be6161828f81f2220fb3ebc3413a617eb38537f746b3",
+      "durationSeconds": 0.984,
       "sampleRate": 24000,
-      "rms": 0.0585874
+      "rms": 0.0586362
     },
     {
       "id": "blue",
       "kind": "word",
       "text": "blue",
       "path": "audio/words/blue.mp3",
-      "bytes": 15744,
-      "sha256": "e9fd298c959c3a0b00625b90e9e56af14e054e2afc3ae5bc9bd905c124cd2281",
-      "durationSeconds": 0.984,
+      "bytes": 13056,
+      "sha256": "7fd38d73b0e367480b24440855a251412ec1c8754d14e2873369fc090d84d6b8",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.057686
+      "rms": 0.0599267
     },
     {
       "id": "blue",
       "kind": "sentence",
       "text": "It's blue.",
       "path": "audio/sentences/blue.mp3",
-      "bytes": 18816,
-      "sha256": "9b46e08db9a55566e5cd8c60412cdd977de759b7f8bb8712d30d535e5e8feed2",
-      "durationSeconds": 1.176,
+      "bytes": 16128,
+      "sha256": "c1f298896fc2057d5edad62a64a89301ded5a3b7a06e0829d0d13d767cd0d68a",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.0580108
+      "rms": 0.0590295
     },
     {
       "id": "yellow",
       "kind": "word",
       "text": "yellow",
       "path": "audio/words/yellow.mp3",
-      "bytes": 16896,
-      "sha256": "97594982f4ce9659ba9b58a1cf1c312a3e7ff04a1ae7ded69d0545348c7ab999",
-      "durationSeconds": 1.056,
+      "bytes": 14976,
+      "sha256": "bd9e4008348dcd2d16dba34b29275032f8c4a972d353fb167b67a9048f9af63c",
+      "durationSeconds": 0.936,
       "sampleRate": 24000,
-      "rms": 0.0546506
+      "rms": 0.0554463
     },
     {
       "id": "yellow",
       "kind": "sentence",
       "text": "It's yellow.",
       "path": "audio/sentences/yellow.mp3",
-      "bytes": 19200,
-      "sha256": "e55eeb72e7ed7f2f25ffdc1d0510b31c239b478fba5b7c3438bb9a5af4aba4f8",
-      "durationSeconds": 1.2,
+      "bytes": 16896,
+      "sha256": "d1229100c5938a3a339d973a0d4bdeea20ee4453b0d8e3c9708ab98a26390187",
+      "durationSeconds": 1.056,
       "sampleRate": 24000,
-      "rms": 0.0588167
+      "rms": 0.059667
     },
     {
       "id": "green",
       "kind": "word",
       "text": "green",
       "path": "audio/words/green.mp3",
-      "bytes": 17280,
-      "sha256": "60a65394cd877463dc007ac6d245e0cf0189c130b4cac46b222ce098bae7442d",
-      "durationSeconds": 1.08,
+      "bytes": 14592,
+      "sha256": "5693232a21b37c6dd1658270f20a1517fd6454c971e2687a79c1326bb3f5bf8a",
+      "durationSeconds": 0.912,
       "sampleRate": 24000,
-      "rms": 0.0558028
+      "rms": 0.057132
     },
     {
       "id": "green",
       "kind": "sentence",
       "text": "It's green.",
       "path": "audio/sentences/green.mp3",
-      "bytes": 19200,
-      "sha256": "6be8ff010d53c819da8a8550404649ed5b36b43742246e20f0bc7d96e0ab2810",
-      "durationSeconds": 1.2,
+      "bytes": 17280,
+      "sha256": "c7475fc6e0ecae17fd69a1f4dcf8321d5a06ccc589aff6ffd9dccfa3a4f4ebce",
+      "durationSeconds": 1.08,
       "sampleRate": 24000,
-      "rms": 0.0596409
+      "rms": 0.0590355
     },
     {
       "id": "big",
       "kind": "word",
       "text": "big",
       "path": "audio/words/big.mp3",
-      "bytes": 13824,
-      "sha256": "e4dd3b76f7a38d10ab5786c369e113de0ebd5add36a7cd3fb969a49a14bc234f",
-      "durationSeconds": 0.864,
+      "bytes": 12288,
+      "sha256": "46f3783938aa458c2d8a4324102ad4c5106a425c61678ca425afb2157cb5c1b2",
+      "durationSeconds": 0.768,
       "sampleRate": 24000,
-      "rms": 0.0590174
+      "rms": 0.0580528
     },
     {
       "id": "big",
       "kind": "sentence",
       "text": "It's big.",
       "path": "audio/sentences/big.mp3",
-      "bytes": 18432,
-      "sha256": "bbe90d1ef9c386ce2c2cd33d521f1d6028917c7105c3c3866b99b502f5f23deb",
-      "durationSeconds": 1.152,
+      "bytes": 16128,
+      "sha256": "16c4991c095f3de7373d6ea11ecc6fdf848d50fcdff702c5729cfdadf3cf5e06",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.056301
+      "rms": 0.0579153
     },
     {
       "id": "small",
       "kind": "word",
       "text": "small",
       "path": "audio/words/small.mp3",
-      "bytes": 16896,
-      "sha256": "ef4a266c251b122bc40efeaed4eb602b1bc6f548097a148f9f6b54c8bbaaf285",
-      "durationSeconds": 1.056,
+      "bytes": 14208,
+      "sha256": "8070dd3319557d75366fb9dfd9274347d03a7794eb1648b3b2eefb806b20033a",
+      "durationSeconds": 0.888,
       "sampleRate": 24000,
-      "rms": 0.0589984
+      "rms": 0.0616981
     },
     {
       "id": "small",
       "kind": "sentence",
       "text": "It's small.",
       "path": "audio/sentences/small.mp3",
-      "bytes": 18816,
-      "sha256": "83465a60751cdc6dddda26a2517aea212c76ec1b8ab31388b40392a039946b5c",
-      "durationSeconds": 1.176,
+      "bytes": 16512,
+      "sha256": "f16c2827c063714b50775cbd5d5a62e37ac454721677de4934c93f87d453b7c8",
+      "durationSeconds": 1.032,
       "sampleRate": 24000,
-      "rms": 0.0616829
+      "rms": 0.0636872
     },
     {
       "id": "tall",
       "kind": "word",
       "text": "tall",
       "path": "audio/words/tall.mp3",
-      "bytes": 9984,
-      "sha256": "4a33fb21b1393e3dcf4c3f77ad4fc79d19a870608018031bf14014df9ec25af2",
-      "durationSeconds": 0.624,
+      "bytes": 8832,
+      "sha256": "26598d9428516ac9ca8f157ea34ebba90b9dbcbf4982d2490dc87eccd0647e2d",
+      "durationSeconds": 0.552,
       "sampleRate": 24000,
-      "rms": 0.0483286
+      "rms": 0.0486558
     },
     {
       "id": "tall",
       "kind": "sentence",
       "text": "It's tall.",
       "path": "audio/sentences/tall.mp3",
-      "bytes": 18816,
-      "sha256": "05cf518fa063b95a1d62c08fe1e8da010434d8f4c179dc6c6e1fbe97539dea91",
-      "durationSeconds": 1.176,
+      "bytes": 16128,
+      "sha256": "ae90b9ead62d2d83a0a1892e6b64be2242442bb4e3689c77545859e697706b30",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.059002
+      "rms": 0.0587868
     },
     {
       "id": "short",
       "kind": "word",
       "text": "short",
       "path": "audio/words/short.mp3",
-      "bytes": 16128,
-      "sha256": "1e71a3bc67ad63daa334416947b4205818fe40b6e96ca25e000c808f10357574",
-      "durationSeconds": 1.008,
+      "bytes": 13440,
+      "sha256": "bb3f8d7bbbd16c1f7ac76118fbe32cffa5cf33f6968c19f06179a55905a6a068",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.0569642
+      "rms": 0.0589258
     },
     {
       "id": "short",
       "kind": "sentence",
       "text": "It's short.",
       "path": "audio/sentences/short.mp3",
-      "bytes": 18816,
-      "sha256": "42d738129a422faaec4da139e3a6e8f4aad4ee36f4763f4a4e1afe6f09b39551",
-      "durationSeconds": 1.176,
+      "bytes": 16896,
+      "sha256": "ed3c543c47883d3d4806d337e3ed4bea5efd04d3a9f1d5a292c33472bb394ce4",
+      "durationSeconds": 1.056,
       "sampleRate": 24000,
-      "rms": 0.0585765
+      "rms": 0.0574058
     },
     {
       "id": "run",
       "kind": "word",
       "text": "run",
       "path": "audio/words/run.mp3",
-      "bytes": 14976,
-      "sha256": "8acf6675e3ea21453adba4f1f9c50629313114b1582871cdb0509393c283a4a8",
-      "durationSeconds": 0.936,
+      "bytes": 12672,
+      "sha256": "a3307dbeec031a55963b46971e617eb00baf0ca3d3b6e37f8da239f829005235",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0568635
+      "rms": 0.0585659
     },
     {
       "id": "run",
       "kind": "sentence",
       "text": "I can run.",
       "path": "audio/sentences/run.mp3",
-      "bytes": 20352,
-      "sha256": "99be629de4a521996f32bc729ff52f1a0cd739122332dd9c65b91dca88a2f183",
-      "durationSeconds": 1.272,
+      "bytes": 18048,
+      "sha256": "a5b2b9b9f15f67f908712fe3a091706b2ab216d2ac9e722980a7118e7f8639a6",
+      "durationSeconds": 1.128,
       "sampleRate": 24000,
-      "rms": 0.0567129
+      "rms": 0.0577917
     },
     {
       "id": "jump",
       "kind": "word",
       "text": "jump",
       "path": "audio/words/jump.mp3",
-      "bytes": 14592,
-      "sha256": "f47955ee75670022a90ce0cb4c6fd5f1eedec3de722dca27311930b0dc29dd22",
-      "durationSeconds": 0.912,
+      "bytes": 12672,
+      "sha256": "8077907e8a54f041191d9862681d17718eb87c74d1b6ca3816851e702fa96f79",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0591687
+      "rms": 0.0596558
     },
     {
       "id": "jump",
       "kind": "sentence",
       "text": "I can jump.",
       "path": "audio/sentences/jump.mp3",
-      "bytes": 21120,
-      "sha256": "a33aa932b45bdc5605735f45c774b4e703a1a487c958e6b3bcce637a133e51e2",
-      "durationSeconds": 1.32,
+      "bytes": 19200,
+      "sha256": "513133eae2aec7aa52824713765c42f44a8a399499a70d52d930f9a7ede9f977",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.058484
+      "rms": 0.0586112
     },
     {
       "id": "swim",
       "kind": "word",
       "text": "swim",
       "path": "audio/words/swim.mp3",
-      "bytes": 15744,
-      "sha256": "62485d984073764941ed0010dcfaf141b504fb50a78240399b4e672824898f3d",
-      "durationSeconds": 0.984,
+      "bytes": 13440,
+      "sha256": "7a30d15c80c986b8d08b550910ecf029f52f28e6f04bad24bc9625d8340f7c66",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.0569162
+      "rms": 0.059116
     },
     {
       "id": "swim",
       "kind": "sentence",
       "text": "I can swim.",
       "path": "audio/sentences/swim.mp3",
-      "bytes": 21504,
-      "sha256": "8e35b43de7c25ef45dda3200b45fcc8143f18bcdd28a0bf26e43de113ad52986",
-      "durationSeconds": 1.344,
+      "bytes": 18816,
+      "sha256": "37842eda95eed035fe41a247f6f787faf394d8158a981a93598893ed86308a46",
+      "durationSeconds": 1.176,
       "sampleRate": 24000,
-      "rms": 0.0574706
+      "rms": 0.0582327
     },
     {
       "id": "sing",
       "kind": "word",
       "text": "sing",
       "path": "audio/words/sing.mp3",
-      "bytes": 15744,
-      "sha256": "c75222db0298b419fbf39540fb4edcbd325ad269e764a5209a5bc3ae36990e43",
-      "durationSeconds": 0.984,
+      "bytes": 13056,
+      "sha256": "161feb0c0591a3e8bbf53eb860de541a0d744f5c4c62efac09a923f2bb7171cd",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0540438
+      "rms": 0.0572539
     },
     {
       "id": "sing",
       "kind": "sentence",
       "text": "I can sing.",
       "path": "audio/sentences/sing.mp3",
-      "bytes": 21120,
-      "sha256": "ae11988a238e2191bc2190df4140e4faac38a90d763ade51e8964e24056c430a",
-      "durationSeconds": 1.32,
+      "bytes": 18432,
+      "sha256": "22ebb42fb629f9cdb3d82fc49b92c149968c3eaadc78f5db185bafbfa4caf13b",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.0572495
+      "rms": 0.0587657
     },
     {
       "id": "dance",
       "kind": "word",
       "text": "dance",
       "path": "audio/words/dance.mp3",
-      "bytes": 15360,
-      "sha256": "2643cce712233af01fe28ad24a56100e989898e2cd00f54cca6c5e9e3189e5a6",
-      "durationSeconds": 0.96,
+      "bytes": 13056,
+      "sha256": "7feda90e1fb35e1c795e0461bfc6e3d79698dcb04cafd0a5221547ac1f38659f",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.057061
+      "rms": 0.0587069
     },
     {
       "id": "dance",
       "kind": "sentence",
       "text": "I can dance.",
       "path": "audio/sentences/dance.mp3",
-      "bytes": 21120,
-      "sha256": "cc7950a71d9ffa1b111f0ee3eda3f49a2bfd4e6bbf0f573d26fb9de4ada3499c",
-      "durationSeconds": 1.32,
+      "bytes": 19200,
+      "sha256": "151ed6ebb72a2b3b9155b56d2b47dee9fb5db0b2d3d3142a7c75fb3f597c8f4a",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.0591489
+      "rms": 0.0589117
     },
     {
       "id": "play",
       "kind": "word",
       "text": "play",
       "path": "audio/words/play.mp3",
-      "bytes": 14976,
-      "sha256": "4f84cbffeb670ca53bccd84a07d97e5bbf461796836c86e296a71a96b2cf42cd",
-      "durationSeconds": 0.936,
+      "bytes": 12672,
+      "sha256": "0ee4fc162e984e7df6f6e130502498d9d6dbfff3bea5cc8e385895a312913df2",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0570462
+      "rms": 0.0597244
     },
     {
       "id": "play",
       "kind": "sentence",
       "text": "I can play.",
       "path": "audio/sentences/play.mp3",
-      "bytes": 20736,
-      "sha256": "f93f95cd1cf7c697071fb93e93a45043ff936a7d7c4c53a5e545a8f55753a44b",
-      "durationSeconds": 1.296,
+      "bytes": 18816,
+      "sha256": "af6474e19551b1c3b74e2c550f6ef9a8490faeaba1f5e54fdfa6774ba7e5e5fd",
+      "durationSeconds": 1.176,
       "sampleRate": 24000,
-      "rms": 0.0572726
+      "rms": 0.0577891
     },
     {
       "id": "read",
       "kind": "word",
       "text": "read",
       "path": "audio/words/read.mp3",
-      "bytes": 11136,
-      "sha256": "9e37b4f90ca91766ecee9da401a65efa94a9a8630212aeb3b960ae5f213b4805",
-      "durationSeconds": 0.696,
+      "bytes": 9984,
+      "sha256": "75b01d7b0d25ae37f9ff67bb0bf8d1f2ddea53a2b20d751d35a9ad4335d44e6e",
+      "durationSeconds": 0.624,
       "sampleRate": 24000,
-      "rms": 0.0534877
+      "rms": 0.0534474
     },
     {
       "id": "read",
       "kind": "sentence",
       "text": "I can read.",
       "path": "audio/sentences/read.mp3",
-      "bytes": 20736,
-      "sha256": "f8dae45f45f11711d7a243868407303e4b7d2c0bf4bb77ba8cfcfcd02ce73a32",
-      "durationSeconds": 1.296,
+      "bytes": 19200,
+      "sha256": "2bde03afe3bf520e86aaa480f5358d50a8f0fa0ea4a15696fd857b68a894ed9d",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.0585278
+      "rms": 0.0588681
     },
     {
       "id": "write",
       "kind": "word",
       "text": "write",
       "path": "audio/words/write.mp3",
-      "bytes": 16512,
-      "sha256": "c2d6bdfc3c2c062ab911e743b1d247a0fcedc051bc5759c89c0c554f2419c561",
-      "durationSeconds": 1.032,
+      "bytes": 13056,
+      "sha256": "3a647a99ff114f35e54f0e06a01ca8196c0e859160c296d40bb55981c3594a16",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0559958
+      "rms": 0.058829
     },
     {
       "id": "write",
       "kind": "sentence",
       "text": "I can write.",
       "path": "audio/sentences/write.mp3",
-      "bytes": 20352,
-      "sha256": "6d5070397dc128dd58738217bb443eb0946e5e2a38657694cb8fe65f96ea770d",
-      "durationSeconds": 1.272,
+      "bytes": 19200,
+      "sha256": "7488b854a2c8ee9e869f4e978ecf789024ee31eb23fe077dc2f76bae814ad90a",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.05837
+      "rms": 0.0579867
     },
     {
       "id": "in",
       "kind": "word",
       "text": "in",
       "path": "audio/words/in.mp3",
-      "bytes": 14592,
-      "sha256": "be16ab3b25f9e2aac06d70df57eae6f81d852d45005708169946a851d6521714",
-      "durationSeconds": 0.912,
+      "bytes": 12672,
+      "sha256": "b6ddf19d15fa21e3031817ae72df03a81d16b38ea26286d1cf5d956740433590",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0548517
+      "rms": 0.0564736
     },
     {
       "id": "in",
       "kind": "sentence",
       "text": "It's in the box.",
       "path": "audio/sentences/in.mp3",
-      "bytes": 23424,
-      "sha256": "99ed08ee426f98c235d80b5ec788ace90be2cb91319b4595e1b8e41b7bbcc69e",
-      "durationSeconds": 1.464,
+      "bytes": 20736,
+      "sha256": "a73fa64b01a61704572c4d20e2cdea7dbbef10106e5a1059eae4092692de7af0",
+      "durationSeconds": 1.296,
       "sampleRate": 24000,
-      "rms": 0.0603751
+      "rms": 0.0610695
     },
     {
       "id": "on",
       "kind": "word",
       "text": "on",
       "path": "audio/words/on.mp3",
-      "bytes": 16128,
-      "sha256": "aa601fa7a585468475c05049cae30ce23a604d55e99a69197b429fd1c27a1e17",
-      "durationSeconds": 1.008,
+      "bytes": 13440,
+      "sha256": "3712192bf5bf51b3b50e1d05e899f4906dc6f207172be20f9b5b8e854847dd67",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.0505732
+      "rms": 0.053854
     },
     {
       "id": "on",
       "kind": "sentence",
       "text": "It's on the chair.",
       "path": "audio/sentences/on.mp3",
-      "bytes": 21504,
-      "sha256": "64d037159c8d5caae21339d54b2fed8d2748ae2ace3e58af113c5f888df423f8",
-      "durationSeconds": 1.344,
+      "bytes": 19584,
+      "sha256": "3006a2ef15bb0f4255a69bb0f3797c17a9af12dabe5cac4cfad66a16a250c9eb",
+      "durationSeconds": 1.224,
       "sampleRate": 24000,
-      "rms": 0.062314
+      "rms": 0.0621332
     },
     {
       "id": "under",
       "kind": "word",
       "text": "under",
       "path": "audio/words/under.mp3",
-      "bytes": 17664,
-      "sha256": "0cb2f027d008b83fa1c74c23df9b422eadc40d921baedb64f517b67856762e97",
-      "durationSeconds": 1.104,
+      "bytes": 14592,
+      "sha256": "a9c5441188ea4e6941f478ae2c97489c6def7a79d5468841e40c23de97592418",
+      "durationSeconds": 0.912,
       "sampleRate": 24000,
-      "rms": 0.0573864
+      "rms": 0.0600022
     },
     {
       "id": "under",
       "kind": "sentence",
       "text": "It's under the table.",
       "path": "audio/sentences/under.mp3",
-      "bytes": 26112,
-      "sha256": "d63665ac099cbb9c8e16cdc65eae7b70d902ba0cdbf012252e6ac7615b9181e7",
-      "durationSeconds": 1.632,
+      "bytes": 21888,
+      "sha256": "007953d5c09189195dbc441c00c4a0076023609e34b093c55b697aa24042f73d",
+      "durationSeconds": 1.368,
       "sampleRate": 24000,
-      "rms": 0.0573605
+      "rms": 0.0570405
     },
     {
       "id": "one",
       "kind": "word",
       "text": "one",
       "path": "audio/words/one.mp3",
-      "bytes": 14208,
-      "sha256": "651e2c3566ec81ee37b436d4096993161e86a5564f240b733d778e7e0139a726",
-      "durationSeconds": 0.888,
+      "bytes": 12288,
+      "sha256": "2a2d1ef5dea4f2b968a5597432406b2e941075fe4def12057860e2fa61ef45cb",
+      "durationSeconds": 0.768,
       "sampleRate": 24000,
-      "rms": 0.0597482
+      "rms": 0.0608472
     },
     {
       "id": "one",
       "kind": "sentence",
       "text": "How many? One.",
       "path": "audio/sentences/one.mp3",
-      "bytes": 27648,
-      "sha256": "4445df3eda21c9ae01d4f106eac00b91288da90bf82f9d56d1e8c3ebebc89215",
-      "durationSeconds": 1.728,
+      "bytes": 24960,
+      "sha256": "83e936f164121b009da85a34f29f29c9e3ce95357d5ea702bd9e65eed37ba40e",
+      "durationSeconds": 1.56,
       "sampleRate": 24000,
-      "rms": 0.0528116
+      "rms": 0.0527667
     },
     {
       "id": "two",
       "kind": "word",
       "text": "two",
       "path": "audio/words/two.mp3",
-      "bytes": 15360,
-      "sha256": "c0def4beb0b4f45345902ae4e63ca12388e026bd8efc8bacb112a1c8494f0eea",
-      "durationSeconds": 0.96,
+      "bytes": 13056,
+      "sha256": "2b70755cccc974a91e5f1e56d6c067f5bf042714510b68afc4559f87f84e4695",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0550848
+      "rms": 0.0572349
     },
     {
       "id": "two",
       "kind": "sentence",
       "text": "How many? Two.",
       "path": "audio/sentences/two.mp3",
-      "bytes": 28416,
-      "sha256": "366f25e0780076d5edb32b433f4625a5c287cab581d27c24f78d6f9654c1ada4",
-      "durationSeconds": 1.776,
+      "bytes": 25344,
+      "sha256": "f12c1f555749a657122d37680d2c68bf100d36d6568bb88b551347808675bb43",
+      "durationSeconds": 1.584,
       "sampleRate": 24000,
-      "rms": 0.0555199
+      "rms": 0.056537
     },
     {
       "id": "three",
       "kind": "word",
       "text": "three",
       "path": "audio/words/three.mp3",
-      "bytes": 15744,
-      "sha256": "113c374c5365c80c5ad03b8ac74f75a9f613c7486ba7049ebb59a0e5c9033e32",
-      "durationSeconds": 0.984,
+      "bytes": 13056,
+      "sha256": "cd1d5a10219048fef9c3d4a7671c3ca7b7cda56cd70e3e86752dd422ea4aa91b",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0563406
+      "rms": 0.0570799
     },
     {
       "id": "three",
       "kind": "sentence",
       "text": "How many? Three.",
       "path": "audio/sentences/three.mp3",
-      "bytes": 28416,
-      "sha256": "134ed04023e2d34f5108dfa83c29b2bf70681fbdb91ca6ca109558d53649f4d3",
-      "durationSeconds": 1.776,
+      "bytes": 26496,
+      "sha256": "f1c652553444bcb70474b6fc73439cdcdcc3c5d91774e4b25ff70ab46dd75e88",
+      "durationSeconds": 1.656,
       "sampleRate": 24000,
-      "rms": 0.0545843
+      "rms": 0.0542982
     },
     {
       "id": "four",
       "kind": "word",
       "text": "four",
       "path": "audio/words/four.mp3",
-      "bytes": 15744,
-      "sha256": "ab214c944d9a6e28634d2a4d6ca024c1c896a0f391dd77f42bb3397d6dbeb09b",
-      "durationSeconds": 0.984,
+      "bytes": 13056,
+      "sha256": "54fcb1234668fe270e4f5b03e0b7bfee8f3e67c5712efd0fb7e880de93ad4bc0",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0600027
+      "rms": 0.0626553
     },
     {
       "id": "four",
       "kind": "sentence",
       "text": "How many? Four.",
       "path": "audio/sentences/four.mp3",
-      "bytes": 29184,
-      "sha256": "03ed2b5de4aabe8fafc87a3994aad65a97a43f4993b4abdf17dd05ffe13c099d",
-      "durationSeconds": 1.824,
+      "bytes": 27264,
+      "sha256": "46d7a19c3e416abaaf4e94013be3741f1731111994f053242050396e91b74b6b",
+      "durationSeconds": 1.704,
       "sampleRate": 24000,
-      "rms": 0.0563029
+      "rms": 0.0555013
     },
     {
       "id": "five",
       "kind": "word",
       "text": "five",
       "path": "audio/words/five.mp3",
-      "bytes": 15744,
-      "sha256": "a686018460eb865350ca3ca75373233addaa6104827c585457e7c5769963b2fb",
-      "durationSeconds": 0.984,
+      "bytes": 13440,
+      "sha256": "01a8dd44e621b1e88c7987877a542e6d3038ec9ed6ef92e410aeb86239291f92",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.054788
+      "rms": 0.0570748
     },
     {
       "id": "five",
       "kind": "sentence",
       "text": "How many? Five.",
       "path": "audio/sentences/five.mp3",
-      "bytes": 29184,
-      "sha256": "57d91ac40c60c37cb39072ead56cd0eeaa1c73435d305e963d3c6003cc12f2ca",
-      "durationSeconds": 1.824,
+      "bytes": 27648,
+      "sha256": "ecef67f94dc80092b768ce5c12b8af4304afe6fb62507fcc8dd38c609ac8bfe7",
+      "durationSeconds": 1.728,
       "sampleRate": 24000,
-      "rms": 0.0544874
+      "rms": 0.0538147
     },
     {
       "id": "ten",
       "kind": "word",
       "text": "ten",
       "path": "audio/words/ten.mp3",
-      "bytes": 14592,
-      "sha256": "fc0ded6a83af24398a31793bfb5c38cd070b97fc43951aa7526e6e070abbf6f9",
-      "durationSeconds": 0.912,
+      "bytes": 13056,
+      "sha256": "0b66185438b1ca876ae7ba7833c5404014a0a2573ee93e0a7d7751fda12f1060",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0560338
+      "rms": 0.0570833
     },
     {
       "id": "ten",
       "kind": "sentence",
       "text": "How many? Ten.",
       "path": "audio/sentences/ten.mp3",
-      "bytes": 28800,
-      "sha256": "c69c7bd67bde195ece830e76281a961e9583ad862470d335b1ff7f4d51458490",
-      "durationSeconds": 1.8,
+      "bytes": 25728,
+      "sha256": "4da60c5ceaa436505718e974dd814925deca4c1a1ed762e86fc0787307ad3389",
+      "durationSeconds": 1.608,
       "sampleRate": 24000,
-      "rms": 0.0533859
+      "rms": 0.0543017
     },
     {
       "id": "sun",
       "kind": "word",
       "text": "sun",
       "path": "audio/words/sun.mp3",
-      "bytes": 14976,
-      "sha256": "4b042e38c293ebad11f85228aa5801f652055a14ad03825e41f4f8fea5e5ef1c",
-      "durationSeconds": 0.936,
+      "bytes": 12672,
+      "sha256": "abf0b75d95db634e87ef660c9c698abb035e85ebed402260b50e8645d0ccde27",
+      "durationSeconds": 0.792,
       "sampleRate": 24000,
-      "rms": 0.0538466
+      "rms": 0.0576604
     },
     {
       "id": "sun",
       "kind": "sentence",
       "text": "This is the sun.",
       "path": "audio/sentences/sun.mp3",
-      "bytes": 21888,
-      "sha256": "a2eaaa9585604f79ad90a1ade108d31bfd7df69565d195ef7eb5f12892471363",
-      "durationSeconds": 1.368,
+      "bytes": 19200,
+      "sha256": "efc560a47eff73745b1b8bca8d73939fa9af001a07819acc59a8caa12c503d50",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.0584764
+      "rms": 0.0580511
     },
     {
       "id": "moon",
       "kind": "word",
       "text": "moon",
       "path": "audio/words/moon.mp3",
-      "bytes": 15744,
-      "sha256": "b32d8a95449c176590dc751695148dd92ceda60b3f303810a4b3b81867b59ad8",
-      "durationSeconds": 0.984,
+      "bytes": 13440,
+      "sha256": "2910b528437cf0df4f77c2f90fc7b45f43b059dada1b2ba0c1bc87bf1f822ded",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.0603274
+      "rms": 0.0621342
     },
     {
       "id": "moon",
       "kind": "sentence",
       "text": "This is the moon.",
       "path": "audio/sentences/moon.mp3",
-      "bytes": 22656,
-      "sha256": "cf872c810d284091c807e939714dbea40c2ae3fcfcd940590ca6222d4456afac",
-      "durationSeconds": 1.416,
+      "bytes": 19584,
+      "sha256": "2b9ec0202197d4f0f1b89fca68d9e462a795f97c1ba0bd327e611e24e4ceb9a8",
+      "durationSeconds": 1.224,
       "sampleRate": 24000,
-      "rms": 0.058351
+      "rms": 0.0596501
     },
     {
       "id": "star",
       "kind": "word",
       "text": "star",
       "path": "audio/words/star.mp3",
-      "bytes": 15360,
-      "sha256": "e7f964c8eea90e5b99af50c6ef29c33724e87ea0dc75d4732efe4f28d1b2682c",
-      "durationSeconds": 0.96,
+      "bytes": 13056,
+      "sha256": "25fdc4592263db6c247010c9b287db4ff4d90bebbefec103fabf71687adb835b",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0563537
+      "rms": 0.0582435
     },
     {
       "id": "star",
       "kind": "sentence",
       "text": "It's a star.",
       "path": "audio/sentences/star.mp3",
-      "bytes": 20352,
-      "sha256": "3f169b3732d18d395d1407a5315e29c489db47e7d9ebe8bfa79138faed10e508",
-      "durationSeconds": 1.272,
+      "bytes": 18048,
+      "sha256": "85f6e3b42acbef0edf01a8be2488baf7f80d8722b74b3224b685b171752821f8",
+      "durationSeconds": 1.128,
       "sampleRate": 24000,
-      "rms": 0.0590709
+      "rms": 0.057968
     },
     {
       "id": "tree",
       "kind": "word",
       "text": "tree",
       "path": "audio/words/tree.mp3",
-      "bytes": 15744,
-      "sha256": "fee5edeeef7291979ccd3f752f4c4a2712f06e1940474a388628941f02e15808",
-      "durationSeconds": 0.984,
+      "bytes": 13824,
+      "sha256": "43e99f98d69ad0ed4f41769517479f59b30e036e4eb257e44dad5efe00ffe44d",
+      "durationSeconds": 0.864,
       "sampleRate": 24000,
-      "rms": 0.0545541
+      "rms": 0.056127
     },
     {
       "id": "tree",
       "kind": "sentence",
       "text": "It's a tree.",
       "path": "audio/sentences/tree.mp3",
-      "bytes": 20736,
-      "sha256": "31da74a3e2063383c92ef5badcebeb695a0bbc067343d1454253845b60884ab7",
-      "durationSeconds": 1.296,
+      "bytes": 18432,
+      "sha256": "a737555eecdfb1ea60ae5cfcc6d17a0988329b85657a0a6badbed1ac06b7a8f4",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.0564477
+      "rms": 0.0558181
     },
     {
       "id": "flower",
       "kind": "word",
       "text": "flower",
       "path": "audio/words/flower.mp3",
-      "bytes": 18048,
-      "sha256": "77bd9e0ef474bb5108cba0e3e4373bdb5cd705f814d66d7e3f48ee21c7014e4e",
-      "durationSeconds": 1.128,
+      "bytes": 14976,
+      "sha256": "3fb5fa6f726254f79cd5dbaea318cacc7498a8b87348e48413c2492c82b45e93",
+      "durationSeconds": 0.936,
       "sampleRate": 24000,
-      "rms": 0.0543063
+      "rms": 0.0555177
     },
     {
       "id": "flower",
       "kind": "sentence",
       "text": "It's a flower.",
       "path": "audio/sentences/flower.mp3",
-      "bytes": 21120,
-      "sha256": "d1bb42821fba81f0509e3bae318ac518d33ff00ed63a5111f268852d6bd60e8c",
-      "durationSeconds": 1.32,
+      "bytes": 18816,
+      "sha256": "0c4ded1c91aa354c2841910f91cdaf8424e15cd193687ec46e46b2e0a03f7212",
+      "durationSeconds": 1.176,
       "sampleRate": 24000,
-      "rms": 0.0589444
+      "rms": 0.0575517
     },
     {
       "id": "cherry",
       "kind": "word",
       "text": "cherry",
       "path": "audio/words/cherry.mp3",
-      "bytes": 15744,
-      "sha256": "7dda89850d65f3534e7eb3b27399250e70cbf1f58a8a026149b50b72d5d421c6",
-      "durationSeconds": 0.984,
+      "bytes": 13824,
+      "sha256": "9e1f515f9a4dc2ecd8fc111b09d79536d71547c25ae76b944e681fd167c068e7",
+      "durationSeconds": 0.864,
       "sampleRate": 24000,
-      "rms": 0.0558722
+      "rms": 0.0575385
     },
     {
       "id": "cherry",
       "kind": "sentence",
       "text": "It's a cherry.",
       "path": "audio/sentences/cherry.mp3",
-      "bytes": 20352,
-      "sha256": "c92c7179267c9d2c99d496153f760b4606173e4efc13d72f69ce35efd0becafd",
-      "durationSeconds": 1.272,
+      "bytes": 17664,
+      "sha256": "436dc4c0c30d874d9ea964113c0cbd510ccebc1d85ec6615f4ff4ccd13550c9e",
+      "durationSeconds": 1.104,
       "sampleRate": 24000,
-      "rms": 0.0578731
+      "rms": 0.0567149
     },
     {
       "id": "kiwifruit",
       "kind": "word",
       "text": "kiwifruit",
       "path": "audio/words/kiwifruit.mp3",
-      "bytes": 18432,
-      "sha256": "9711c4327ea160bd10e8d2923bc75301c38837d6814c79edc27966e0e80478ca",
-      "durationSeconds": 1.152,
+      "bytes": 16512,
+      "sha256": "5e66cc3d8ae3c8de1a5090eaad28ba73932e60f7ef25a0a421894de44267f977",
+      "durationSeconds": 1.032,
       "sampleRate": 24000,
-      "rms": 0.0593559
+      "rms": 0.0595328
     },
     {
       "id": "kiwifruit",
       "kind": "sentence",
       "text": "It's a kiwifruit.",
       "path": "audio/sentences/kiwifruit.mp3",
-      "bytes": 23424,
-      "sha256": "8f201d634955435fdc67fdfb52d2ea46d7b0ad983da3000b7b953e06b1caa241",
-      "durationSeconds": 1.464,
+      "bytes": 21504,
+      "sha256": "bfe08a7441991fdd21a7790d3f49ce121f818ce26aab792833b56a1f862e60bc",
+      "durationSeconds": 1.344,
       "sampleRate": 24000,
-      "rms": 0.0561945
+      "rms": 0.055065
     },
     {
       "id": "rabbit",
       "kind": "word",
       "text": "rabbit",
       "path": "audio/words/rabbit.mp3",
-      "bytes": 17664,
-      "sha256": "75a83c77e45a0291123f24d053c06cfa1a00e371382d9958b8664841bcf6d895",
-      "durationSeconds": 1.104,
+      "bytes": 14976,
+      "sha256": "481f7da1457160a29678ff2aca5c6e3574d1e06f0a295c30ace7a9bc8d0694ce",
+      "durationSeconds": 0.936,
       "sampleRate": 24000,
-      "rms": 0.0549237
+      "rms": 0.055728
     },
     {
       "id": "rabbit",
       "kind": "sentence",
       "text": "It's a rabbit.",
       "path": "audio/sentences/rabbit.mp3",
-      "bytes": 20352,
-      "sha256": "f6b6f6122588533414dcf5d1a9a094a83488669eae8ad88599255c93064dce07",
-      "durationSeconds": 1.272,
+      "bytes": 18816,
+      "sha256": "a70576fd6969c11309187cbb58938e20e8aba112766c38779cdbb82df13afe94",
+      "durationSeconds": 1.176,
       "sampleRate": 24000,
-      "rms": 0.0591241
+      "rms": 0.0574931
     },
     {
       "id": "panda",
       "kind": "word",
       "text": "panda",
       "path": "audio/words/panda.mp3",
-      "bytes": 16128,
-      "sha256": "e365990d136d850e533b07896dbf26d8313af4f231bcbe6cfbdc72da1b9f8f2f",
-      "durationSeconds": 1.008,
+      "bytes": 13056,
+      "sha256": "6bd85e4141d708a7960d336c80a76b40d9d25ca89e4863ae91d5f56ffc5df242",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0603832
+      "rms": 0.0617804
     },
     {
       "id": "panda",
       "kind": "sentence",
       "text": "It's a panda.",
       "path": "audio/sentences/panda.mp3",
-      "bytes": 20736,
-      "sha256": "a2fa7c937bbc4507335ee34ff1e5a8e7ecd1484236d453d2b1851847dd97c820",
-      "durationSeconds": 1.296,
+      "bytes": 18432,
+      "sha256": "0d2bd1aa997781d240db2323d6a47ea1e21fa0709f9f6f6f5b6b5e5855cc1edb",
+      "durationSeconds": 1.152,
       "sampleRate": 24000,
-      "rms": 0.0598932
+      "rms": 0.0591871
     },
     {
       "id": "finger",
       "kind": "word",
       "text": "finger",
       "path": "audio/words/finger.mp3",
-      "bytes": 16128,
-      "sha256": "44338028c35ab20b86de50be835bf534caf8d2aaed7e51dc473895e5a62b4700",
-      "durationSeconds": 1.008,
+      "bytes": 13824,
+      "sha256": "0d286cdce3f6285485f937d88ba8d23545e63a279dfe02abe599c612ef116135",
+      "durationSeconds": 0.864,
       "sampleRate": 24000,
-      "rms": 0.0623178
+      "rms": 0.0636873
     },
     {
       "id": "finger",
       "kind": "sentence",
       "text": "This is my finger.",
       "path": "audio/sentences/finger.mp3",
-      "bytes": 24960,
-      "sha256": "31fb2b781d9c1562badc9b610555f732278b4c04bece4bd570925ec7137e938a",
-      "durationSeconds": 1.56,
+      "bytes": 21888,
+      "sha256": "5a163dc6568e8543515e37ce4ae3f8aba10e82ebc1a58a5b834082617874f4a3",
+      "durationSeconds": 1.368,
       "sampleRate": 24000,
-      "rms": 0.0579306
+      "rms": 0.0578282
     },
     {
       "id": "toe",
       "kind": "word",
       "text": "toe",
       "path": "audio/words/toe.mp3",
-      "bytes": 13824,
-      "sha256": "0d04bac095f7ceb3ac2d2300d002b4a90fab7af38c1217257c12e458c0f1016e",
-      "durationSeconds": 0.864,
+      "bytes": 12288,
+      "sha256": "c8b6e97f963627faa38e55bd936d7d1533f00561f79dfb102095097a6c2c87e5",
+      "durationSeconds": 0.768,
       "sampleRate": 24000,
-      "rms": 0.0579242
+      "rms": 0.0592652
     },
     {
       "id": "toe",
       "kind": "sentence",
       "text": "This is my toe.",
       "path": "audio/sentences/toe.mp3",
-      "bytes": 22656,
-      "sha256": "505591eb99435bd03135c15cfdfc15fffe1a62a115d06104891fca8926d92966",
-      "durationSeconds": 1.416,
+      "bytes": 20736,
+      "sha256": "2a49010efe7dfd89ce2dcd9a37f8b4d831cc6fbd5016bd5b3194a4618e9a51ed",
+      "durationSeconds": 1.296,
       "sampleRate": 24000,
-      "rms": 0.0579217
+      "rms": 0.0575834
     },
     {
       "id": "purple",
       "kind": "word",
       "text": "purple",
       "path": "audio/words/purple.mp3",
-      "bytes": 16128,
-      "sha256": "8554ae2ff8a20b464bb1a58a13b57332adab3a88f21543f8f8a94d295a2d948a",
-      "durationSeconds": 1.008,
+      "bytes": 14208,
+      "sha256": "7bf00134f00501450eb92de35c3596ce0a54d93c3d3408b5e1faf768e01d803b",
+      "durationSeconds": 0.888,
       "sampleRate": 24000,
-      "rms": 0.0562778
+      "rms": 0.0577652
     },
     {
       "id": "purple",
       "kind": "sentence",
       "text": "It's purple.",
       "path": "audio/sentences/purple.mp3",
-      "bytes": 18816,
-      "sha256": "628156fe9b53414a10d9c030f7ad29c3633a31be46833c91e04039131fc58916",
-      "durationSeconds": 1.176,
+      "bytes": 17664,
+      "sha256": "1a3f4fb96f60d518ff4405b2b22a0328d95dc9c47f8ee936766a064da6e71a78",
+      "durationSeconds": 1.104,
       "sampleRate": 24000,
-      "rms": 0.0604687
+      "rms": 0.0575844
     },
     {
       "id": "pink",
       "kind": "word",
       "text": "pink",
       "path": "audio/words/pink.mp3",
-      "bytes": 16128,
-      "sha256": "bcd1fa29d99d8f32b7405b70542b695b71b7b86675f849037b9c19a316cfe984",
-      "durationSeconds": 1.008,
+      "bytes": 13056,
+      "sha256": "7443d0d101e0a255a779cf8c3ed83be4b511d61c38f0d47c9be15b72b59b74ad",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0536196
+      "rms": 0.0558795
     },
     {
       "id": "pink",
       "kind": "sentence",
       "text": "It's pink.",
       "path": "audio/sentences/pink.mp3",
-      "bytes": 19200,
-      "sha256": "dcc34c8578913484d4c0eed2db6dca074da4180e96884faeb5a3fce427a26e0f",
-      "durationSeconds": 1.2,
+      "bytes": 16128,
+      "sha256": "2ab3d79e478834abc38dcc84066ebc106d97cf824d5440ac3194d53277569038",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.0581159
+      "rms": 0.0582794
     },
     {
       "id": "open",
       "kind": "word",
       "text": "open",
       "path": "audio/words/open.mp3",
-      "bytes": 17280,
-      "sha256": "af68db0f4b66b5498e51a219fe2d4bddf5da84095aa61813a618d80201414ea0",
-      "durationSeconds": 1.08,
+      "bytes": 15744,
+      "sha256": "2ba0f67cdbfff0ad29bacd823051d241472b5266b1e4c643407ccd22866dc92b",
+      "durationSeconds": 0.984,
       "sampleRate": 24000,
-      "rms": 0.0574716
+      "rms": 0.0583407
     },
     {
       "id": "open",
       "kind": "sentence",
       "text": "Open the book.",
       "path": "audio/sentences/open.mp3",
-      "bytes": 21120,
-      "sha256": "f1d87d6404445c751e0a5ab7724b64b92d6c794c22130d1432a8aaec78f842dc",
-      "durationSeconds": 1.32,
+      "bytes": 19200,
+      "sha256": "840eade425168fef2c948c5620584904e7c79664d07ae6e6a5848f7ad28422dc",
+      "durationSeconds": 1.2,
       "sampleRate": 24000,
-      "rms": 0.0601525
+      "rms": 0.0624935
     },
     {
       "id": "close",
       "kind": "word",
       "text": "close",
       "path": "audio/words/close.mp3",
-      "bytes": 16512,
-      "sha256": "8430b794fc96afc3709c2abaa6905a114268126e3fce54de43ada119f3aefa65",
-      "durationSeconds": 1.032,
+      "bytes": 14592,
+      "sha256": "8c6dfc69a1c09f7f20977be38268831c788e7b20d5714216549d17bf8f8671c2",
+      "durationSeconds": 0.912,
       "sampleRate": 24000,
-      "rms": 0.0563272
+      "rms": 0.0574375
     },
     {
       "id": "close",
       "kind": "sentence",
       "text": "Close the book.",
       "path": "audio/sentences/close.mp3",
-      "bytes": 20736,
-      "sha256": "7752390166c6920c42b463288b4190d4522158141333a7cda65d9393de397b81",
-      "durationSeconds": 1.296,
+      "bytes": 18816,
+      "sha256": "3bc059ea9e8f508c791cd9286f72c776edd385739e184606cf70ffcb86fd36e8",
+      "durationSeconds": 1.176,
       "sampleRate": 24000,
-      "rms": 0.0583952
+      "rms": 0.0589245
     },
     {
       "id": "beside",
       "kind": "word",
       "text": "beside",
       "path": "audio/words/beside.mp3",
-      "bytes": 18816,
-      "sha256": "f7b89de80794c80157c7a84a6f07ad612109cba97fc122c7aec1e73ff5bd9e10",
-      "durationSeconds": 1.176,
+      "bytes": 15744,
+      "sha256": "3334a08bcf52296d639be08aad5aaefa9733cef32f936967c72890b9ca8e82ac",
+      "durationSeconds": 0.984,
       "sampleRate": 24000,
-      "rms": 0.0562684
+      "rms": 0.0587205
     },
     {
       "id": "beside",
       "kind": "sentence",
       "text": "It's beside the box.",
       "path": "audio/sentences/beside.mp3",
-      "bytes": 27264,
-      "sha256": "c7f19a63bc9be17fb54607ac5d2dbcee625ff8a001f92d1b915958ecc63ee30b",
-      "durationSeconds": 1.704,
+      "bytes": 24576,
+      "sha256": "22fba541e0c7f323dc5753ad117b8d202f86f43096cf643c637c0d419f27abbe",
+      "durationSeconds": 1.536,
       "sampleRate": 24000,
-      "rms": 0.0535576
+      "rms": 0.0526891
     },
     {
       "id": "behind",
       "kind": "word",
       "text": "behind",
       "path": "audio/words/behind.mp3",
-      "bytes": 18816,
-      "sha256": "20ffbd2ad13e3ce83c4342b82fac6f5661426a5a222b33617f34b1e066a8737a",
-      "durationSeconds": 1.176,
+      "bytes": 16128,
+      "sha256": "057ced2d04426f2bfbb18c713550d48fe7660945990cd71e26a810de7eb0e94e",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.0531379
+      "rms": 0.0564816
     },
     {
       "id": "behind",
       "kind": "sentence",
       "text": "It's behind the toy.",
       "path": "audio/sentences/behind.mp3",
-      "bytes": 26880,
-      "sha256": "1245e2ab280f8775c9840b7e61764018ea7e792c11cf3e69b8aece759c306161",
-      "durationSeconds": 1.68,
+      "bytes": 23808,
+      "sha256": "2700582086e07c135c535274700824f4aa7edd995078ce32a5d1143015e7deb1",
+      "durationSeconds": 1.488,
       "sampleRate": 24000,
-      "rms": 0.055831
+      "rms": 0.0558622
     },
     {
       "id": "eleven",
       "kind": "word",
       "text": "eleven",
       "path": "audio/words/eleven.mp3",
-      "bytes": 18432,
-      "sha256": "de6d4b91e4fdc5ae395dca74589ff1e52cb91fd996cb25a9bb5f36e6f86ae1ee",
-      "durationSeconds": 1.152,
+      "bytes": 16128,
+      "sha256": "1af6193fff528de19e27544feb613a691ef1710b7066794ab592337ba1536e36",
+      "durationSeconds": 1.008,
       "sampleRate": 24000,
-      "rms": 0.054137
+      "rms": 0.0552261
     },
     {
       "id": "eleven",
       "kind": "sentence",
       "text": "How many? Eleven.",
       "path": "audio/sentences/eleven.mp3",
-      "bytes": 31104,
-      "sha256": "756b0da29b512d766f595814338c7563047f758b6a86d6d390fb05f3cc195425",
-      "durationSeconds": 1.944,
+      "bytes": 28032,
+      "sha256": "94f21f4c95676b554bbccd98c6d4d233c24182c9bd6feb8165437b9f36484b94",
+      "durationSeconds": 1.752,
       "sampleRate": 24000,
-      "rms": 0.0531202
+      "rms": 0.0531103
     },
     {
       "id": "twelve",
       "kind": "word",
       "text": "twelve",
       "path": "audio/words/twelve.mp3",
-      "bytes": 16512,
-      "sha256": "3bd544a2a42c682309a6de194e183d21b9534863272bf064a196f3896f9a1300",
-      "durationSeconds": 1.032,
+      "bytes": 13440,
+      "sha256": "760ce5c9281ab3a390ca3cd8b62f909f50238f9c079a1ef0121d6046ee1448ec",
+      "durationSeconds": 0.84,
       "sampleRate": 24000,
-      "rms": 0.0551081
+      "rms": 0.0584012
     },
     {
       "id": "twelve",
       "kind": "sentence",
       "text": "How many? Twelve.",
       "path": "audio/sentences/twelve.mp3",
-      "bytes": 29952,
-      "sha256": "b2480dc38d0f5abdac57de5b383f7c58580e8ff36feee995b5ae72fcf6574c30",
-      "durationSeconds": 1.872,
+      "bytes": 27648,
+      "sha256": "6924d495d0210ee78c3a14a57650b7ec7cacaa74bd8e89bbd12fd7ad55d110a5",
+      "durationSeconds": 1.728,
       "sampleRate": 24000,
-      "rms": 0.0542097
+      "rms": 0.0545275
     },
     {
       "id": "grass",
       "kind": "word",
       "text": "grass",
       "path": "audio/words/grass.mp3",
-      "bytes": 16512,
-      "sha256": "7cbc61edf9aa61ff2e18e953385258dacf766be77c0a8a1cd19fabc9e361b13c",
-      "durationSeconds": 1.032,
+      "bytes": 14208,
+      "sha256": "8b66fbeab92b4bf379c85e10cf6d0dc2fd9beddcd65d5657a6e371c75115c0c3",
+      "durationSeconds": 0.888,
       "sampleRate": 24000,
-      "rms": 0.0556804
+      "rms": 0.0568737
     },
     {
       "id": "grass",
       "kind": "sentence",
       "text": "It's green grass.",
       "path": "audio/sentences/grass.mp3",
-      "bytes": 23808,
-      "sha256": "e10105ef3e47e4ccbe6395172fb10a496227f7e3299577f5149d744e7f8cf160",
-      "durationSeconds": 1.488,
+      "bytes": 21888,
+      "sha256": "25b01d8cb65294fd0f29b3a470bff6dd681ba2d3f01f81c6da715f41f83fc593",
+      "durationSeconds": 1.368,
       "sampleRate": 24000,
-      "rms": 0.0608301
+      "rms": 0.059425
     },
     {
       "id": "hill",
       "kind": "word",
       "text": "hill",
       "path": "audio/words/hill.mp3",
-      "bytes": 16128,
-      "sha256": "8a38684eaafaf062d119b61e3db4202e5017896aec604495265bdc0fae31c14e",
-      "durationSeconds": 1.008,
+      "bytes": 13056,
+      "sha256": "bfeacece345a2c8fada88b6fafa26e57febf918c00e74f7bf601b4e0652de2ae",
+      "durationSeconds": 0.816,
       "sampleRate": 24000,
-      "rms": 0.0541082
+      "rms": 0.0576411
     },
     {
       "id": "hill",
       "kind": "sentence",
       "text": "It's a hill.",
       "path": "audio/sentences/hill.mp3",
-      "bytes": 19200,
-      "sha256": "8350948962b0c6217457dfcbdb5f2b222e90da30e2a0beedfd4039be07713be9",
-      "durationSeconds": 1.2,
+      "bytes": 17664,
+      "sha256": "48d7d20a9618d44ae8d860b68d5d0379f5d9dfab662845f8715fca79db26efbb",
+      "durationSeconds": 1.104,
       "sampleRate": 24000,
-      "rms": 0.0592637
+      "rms": 0.0582412
     }
   ]
 }
