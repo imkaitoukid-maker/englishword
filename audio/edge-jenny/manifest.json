@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "build": "619efba48bbb7bcf",
+  "build": "778ec56555851a73",
   "voice": "en-US-JennyNeural",
   "speed": 1,
   "rate": "+0%",
-  "sourceSha256": "0cf0124c0090d6250e2a0466b37cba68b26c3df7248584a022bb88ec3bd829a5",
+  "sourceSha256": "40f8afc02168e02331136f718e0ca4713020dd1c356317ce8fb80b00f8bc545f",
   "generator": "edge-tts 7.3.1",
   "format": "mp3",
   "runtime": "Microsoft Edge online TTS (generation only)",
   "wordCount": 314,
   "clipCount": 722,
-  "generatedAt": "2026-11-10T14:46:27.288223+00:00",
+  "generatedAt": "2026-11-10T15:04:07.091225+00:00",
   "clips": [
     {
       "id": "apple",
@@ -4591,13 +4591,13 @@
     {
       "id": "g2-clock-one",
       "kind": "sentence",
-      "text": "One.",
+      "text": "This is number one.",
       "path": "audio/edge-jenny/sentences/g2-clock-one.mp3",
-      "bytes": 11232,
-      "sha256": "2c468ac5181ddeef5ae69c4d34956e3f505efc599f39e2932381eb280ef29372",
-      "durationSeconds": 1.872,
+      "bytes": 12384,
+      "sha256": "7b499a91f2c8b0187ea9a6d41065218a30caa19e465363b9d8dab432b40cf305",
+      "durationSeconds": 2.064,
       "sampleRate": 24000,
-      "rms": 0.0378749
+      "rms": 0.0737235
     },
     {
       "id": "g2-clock-two",
@@ -4613,13 +4613,13 @@
     {
       "id": "g2-clock-two",
       "kind": "sentence",
-      "text": "Two.",
+      "text": "This is number two.",
       "path": "audio/edge-jenny/sentences/g2-clock-two.mp3",
-      "bytes": 11232,
-      "sha256": "a9ea6d24480c5385e39c1fda24a89e35d47c07f26b56cba43faf5a40d418319a",
-      "durationSeconds": 1.872,
+      "bytes": 12816,
+      "sha256": "1eab473a568093180d9cd9d368f6c88b4b8994df72261d7c92c896442b7dd27f",
+      "durationSeconds": 2.136,
       "sampleRate": 24000,
-      "rms": 0.0589513
+      "rms": 0.0900836
     },
     {
       "id": "g2-clock-three",
@@ -4635,13 +4635,13 @@
     {
       "id": "g2-clock-three",
       "kind": "sentence",
-      "text": "Three.",
+      "text": "This is number three.",
       "path": "audio/edge-jenny/sentences/g2-clock-three.mp3",
-      "bytes": 11232,
-      "sha256": "91d242363df0a9ffec172ee3dc3a51739df17dd5449bb8c29050ce3146b4d91b",
-      "durationSeconds": 1.872,
+      "bytes": 12816,
+      "sha256": "342095daa3d0902891550ebb88a7b259bfa512fb49529f13a3ee0eecc43dd49b",
+      "durationSeconds": 2.136,
       "sampleRate": 24000,
-      "rms": 0.0670787
+      "rms": 0.0870693
     },
     {
       "id": "g2-clock-four",
@@ -4657,13 +4657,13 @@
     {
       "id": "g2-clock-four",
       "kind": "sentence",
-      "text": "Four.",
+      "text": "This is number four.",
       "path": "audio/edge-jenny/sentences/g2-clock-four.mp3",
-      "bytes": 11232,
-      "sha256": "b30fc5b00a42b3076ec728578ad7bcfdf57ce7b75f802648420ece9ba6149677",
-      "durationSeconds": 1.872,
+      "bytes": 13104,
+      "sha256": "c452b9b4289e71d709a75d20dae34bc0c879f9ffb6dbba3ba70cdec2fa07b535",
+      "durationSeconds": 2.184,
       "sampleRate": 24000,
-      "rms": 0.0463536
+      "rms": 0.0702937
     },
     {
       "id": "g2-clock-five",
@@ -4679,13 +4679,13 @@
     {
       "id": "g2-clock-five",
       "kind": "sentence",
-      "text": "Five.",
+      "text": "This is number five.",
       "path": "audio/edge-jenny/sentences/g2-clock-five.mp3",
-      "bytes": 11232,
-      "sha256": "67d092c53bc842ea7e9eb2c9f012ce6b3ffb18a6ad2d1d2b88b02e2aff3edf15",
-      "durationSeconds": 1.872,
+      "bytes": 13392,
+      "sha256": "7476a466f0f40936b1ab34874d0674c47e5a46d143c920987ee955e24a8e389a",
+      "durationSeconds": 2.232,
       "sampleRate": 24000,
-      "rms": 0.0480758
+      "rms": 0.078337
     },
     {
       "id": "g2-clock-six",
@@ -4701,13 +4701,13 @@
     {
       "id": "g2-clock-six",
       "kind": "sentence",
-      "text": "Six.",
+      "text": "This is number six.",
       "path": "audio/edge-jenny/sentences/g2-clock-six.mp3",
-      "bytes": 11232,
-      "sha256": "c914ff0c91512f703ccc6a2dcc74f48eb6be7b3b041562e35d342240dc383c47",
-      "durationSeconds": 1.872,
+      "bytes": 13824,
+      "sha256": "eb7b266a29e64edaf956ef35e5e5eb5b76855912d724f98c9fe0027207342212",
+      "durationSeconds": 2.304,
       "sampleRate": 24000,
-      "rms": 0.0486378
+      "rms": 0.0722663
     },
     {
       "id": "g2-clock-seven",
@@ -4723,13 +4723,13 @@
     {
       "id": "g2-clock-seven",
       "kind": "sentence",
-      "text": "Seven.",
+      "text": "This is number seven.",
       "path": "audio/edge-jenny/sentences/g2-clock-seven.mp3",
-      "bytes": 11232,
-      "sha256": "5ba8fa369962731a9310550815227b635cd188adda0d635866b40b99f9e3aec0",
-      "durationSeconds": 1.872,
+      "bytes": 12960,
+      "sha256": "1b67727f6bbef944ab2b934b0a75856d7c2d0188050be08e2d52dd4e55e673a7",
+      "durationSeconds": 2.16,
       "sampleRate": 24000,
-      "rms": 0.0503405
+      "rms": 0.0751235
     },
     {
       "id": "g2-clock-eight",
@@ -4745,13 +4745,13 @@
     {
       "id": "g2-clock-eight",
       "kind": "sentence",
-      "text": "Eight.",
+      "text": "This is number eight.",
       "path": "audio/edge-jenny/sentences/g2-clock-eight.mp3",
-      "bytes": 11232,
-      "sha256": "6f11fbc34eee719aa912e4b385126f45846508e78299f2db6ebaa8b35c686608",
-      "durationSeconds": 1.872,
+      "bytes": 12816,
+      "sha256": "b3aa6ad459526a68c1b38188db90e42abbe8f611ca673861e81a1c6f20abdf73",
+      "durationSeconds": 2.136,
       "sampleRate": 24000,
-      "rms": 0.0459132
+      "rms": 0.074299
     },
     {
       "id": "g2-clock-nine",
@@ -4767,13 +4767,13 @@
     {
       "id": "g2-clock-nine",
       "kind": "sentence",
-      "text": "Nine.",
+      "text": "This is number nine.",
       "path": "audio/edge-jenny/sentences/g2-clock-nine.mp3",
-      "bytes": 11232,
-      "sha256": "ffa474a682c379c7c71dbf644299f0b0c648be1dd4a100a76b7c31da5845018a",
-      "durationSeconds": 1.872,
+      "bytes": 12960,
+      "sha256": "faf65bf0b64fdc2801007acbf759d216a113a67659563a9419e7f2414b3064af",
+      "durationSeconds": 2.16,
       "sampleRate": 24000,
-      "rms": 0.0471972
+      "rms": 0.0787989
     },
     {
       "id": "g2-clock-ten",
@@ -4789,13 +4789,13 @@
     {
       "id": "g2-clock-ten",
       "kind": "sentence",
-      "text": "Ten.",
+      "text": "This is number ten.",
       "path": "audio/edge-jenny/sentences/g2-clock-ten.mp3",
-      "bytes": 11232,
-      "sha256": "03d2a3c63d8dc700abeb5353c7797cbff2d8407b0c8a429f641bb8e4573d7e60",
-      "durationSeconds": 1.872,
+      "bytes": 13104,
+      "sha256": "70699393a4c053db46604a3a61600c4b332a79a92f16a1d6ec03e24ca60a4415",
+      "durationSeconds": 2.184,
       "sampleRate": 24000,
-      "rms": 0.0413996
+      "rms": 0.0744107
     },
     {
       "id": "g2-clock-eleven",
@@ -4811,13 +4811,13 @@
     {
       "id": "g2-clock-eleven",
       "kind": "sentence",
-      "text": "Eleven.",
+      "text": "This is number eleven.",
       "path": "audio/edge-jenny/sentences/g2-clock-eleven.mp3",
-      "bytes": 11232,
-      "sha256": "2fe49ea179470c94ac3a09ae7d0e9d2398832bc3efa4b3ec58193fd059b88277",
-      "durationSeconds": 1.872,
+      "bytes": 13248,
+      "sha256": "be9a0c2dfdbc7685b16bef196d98ce4aa86be0a073d0b8787d2254444c209068",
+      "durationSeconds": 2.208,
       "sampleRate": 24000,
-      "rms": 0.0635607
+      "rms": 0.0775608
     },
     {
       "id": "g2-clock-twelve",
@@ -4833,13 +4833,13 @@
     {
       "id": "g2-clock-twelve",
       "kind": "sentence",
-      "text": "Twelve.",
+      "text": "This is number twelve.",
       "path": "audio/edge-jenny/sentences/g2-clock-twelve.mp3",
-      "bytes": 11232,
-      "sha256": "779d29c7c429defa24523a0350eeb732cf842ddec02daecaa9ca4557aef456cd",
-      "durationSeconds": 1.872,
+      "bytes": 13248,
+      "sha256": "7c5959d04ec142328bf5591a483b9a30e4e893c0b2d95333dc5c270656eab521",
+      "durationSeconds": 2.208,
       "sampleRate": 24000,
-      "rms": 0.0444684
+      "rms": 0.0683425
     },
     {
       "id": "jacket",
