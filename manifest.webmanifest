@@ -1,1 +1,20 @@
-{"id":"./","name":"听音找图 · 一至六年级英语","short_name":"听音找图","description":"按自然场景听音找图，声音与学习记录保存在本机。","start_url":"./","scope":"./","display":"standalone","background_color":"#fffaf0","theme_color":"#fff9ed","lang":"zh-CN","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "id": "./",
+  "name": "英语词汇乐园 · 听音找图与单词连连看",
+  "short_name": "词汇乐园",
+  "description": "听音找图与单词连连看，按场景或年级练习，支持本机错词本与离线使用。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#fff9ed",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
