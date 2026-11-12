@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "build": "b98b4f551f4e34ea",
+  "build": "914f7849734c5549",
   "voice": "en-US-JennyNeural",
   "speed": 1,
   "rate": "+0%",
-  "sourceSha256": "a0aa08bf63902d7a8acf836490d9d1965c226bc1e17e0da703b8541b344f67ff",
+  "sourceSha256": "7c376e768388942e3079eec874db2daf92be24647dec3ce6648d3d43c5fe5f35",
   "generator": "edge-tts 7.3.1",
   "format": "mp3",
   "runtime": "Microsoft Edge online TTS (generation only)",
   "wordCount": 850,
   "clipCount": 2172,
-  "generatedAt": "2026-11-11T07:11:36.185362+00:00",
+  "generatedAt": "2026-11-12T01:31:26.960286+00:00",
   "clips": [
     {
       "id": "apple",
@@ -3355,28 +3355,6 @@
       "durationSeconds": 2.112,
       "sampleRate": 24000,
       "rms": 0.0670988
-    },
-    {
-      "id": "g2-lake-grass",
-      "kind": "word",
-      "text": "grass",
-      "path": "audio/edge-jenny/words/g2-lake-grass.mp3",
-      "bytes": 11232,
-      "sha256": "8836ecfac2bc496d9df92e3c3709894bc65ee069c97aad021f3d950b2933c7eb",
-      "durationSeconds": 1.872,
-      "sampleRate": 24000,
-      "rms": 0.0508796
-    },
-    {
-      "id": "g2-lake-grass",
-      "kind": "sentence",
-      "text": "The grass is green.",
-      "path": "audio/edge-jenny/sentences/g2-lake-grass.mp3",
-      "bytes": 12528,
-      "sha256": "0451781326a0dc4503241df8ba73f78f6164b0cf4a1b15286adc119b16d6269b",
-      "durationSeconds": 2.088,
-      "sampleRate": 24000,
-      "rms": 0.0679399
     },
     {
       "id": "g2-lake-hill",
@@ -23903,6 +23881,28 @@
       "durationSeconds": 3.336,
       "sampleRate": 24000,
       "rms": 0.0731367
+    },
+    {
+      "id": "carrot",
+      "kind": "word",
+      "text": "carrot",
+      "path": "audio/edge-jenny/words/carrot.mp3",
+      "bytes": 11232,
+      "sha256": "90bfc254391e9ee3b1f0b2874d7e0aa5de7023c189e15cd460af57fb169b0de1",
+      "durationSeconds": 1.872,
+      "sampleRate": 24000,
+      "rms": 0.0545946
+    },
+    {
+      "id": "carrot",
+      "kind": "sentence",
+      "text": "The rabbit likes carrots.",
+      "path": "audio/edge-jenny/sentences/carrot.mp3",
+      "bytes": 14400,
+      "sha256": "b7c0b04b79b730449f1f8242f7050ce30cd2e0f1581d3c750b3cf20a1b2f2015",
+      "durationSeconds": 2.4,
+      "sampleRate": 24000,
+      "rms": 0.0692107
     }
   ]
 }
