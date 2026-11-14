@@ -1,6 +1,6 @@
 {
-  "build": "9a8d51f185fa",
-  "generatedAt": "2026-11-13T14:53:58.934Z",
+  "build": "d7b04a43f1a6",
+  "generatedAt": "2026-11-14T02:16:53.895Z",
   "shellFiles": [
     ".nojekyll",
     "art/approved-v3/animals.png",
@@ -81,15 +81,10 @@
     "art/grade6/rescue.png",
     "art/grade6/science.png",
     "art/grade6/wildlife.png",
-    "assets/index-BhqjB9cS.js",
     "assets/index-CpG8yIYD.css",
+    "assets/index-DIXzFxhy.js",
     "assets/pcm-worklet-CMvn5ZSB.js",
     "audio/edge-jenny/manifest.json",
-    "audio/edge-jenny/praise/amazing.mp3",
-    "audio/edge-jenny/praise/excellent.mp3",
-    "audio/edge-jenny/praise/good.mp3",
-    "audio/edge-jenny/praise/great.mp3",
-    "audio/edge-jenny/praise/unbelievable.mp3",
     "audio/edge-jenny/prompts/a-few.mp3",
     "audio/edge-jenny/prompts/abroad.mp3",
     "audio/edge-jenny/prompts/africa.mp3",
@@ -2263,11 +2258,6 @@
     "audio/edge-jenny/words/zero.mp3",
     "audio/edge-jenny/words/zoo.mp3",
     "audio/manifest.json",
-    "audio/praise/amazing.mp3",
-    "audio/praise/excellent.mp3",
-    "audio/praise/good.mp3",
-    "audio/praise/great.mp3",
-    "audio/praise/unbelievable.mp3",
     "audio/prompts/a-few.mp3",
     "audio/prompts/abroad.mp3",
     "audio/prompts/africa.mp3",
@@ -4911,21 +4901,21 @@
   "audio": {
     "mode": "prebuilt",
     "defaultSource": "edge",
-    "clips": 4354,
+    "clips": 4344,
     "sources": [
       {
         "id": "kokoro",
         "voice": "af_heart",
         "speed": 1,
-        "clips": 2177,
-        "build": "eb54354ed095b8b0"
+        "clips": 2172,
+        "build": "151c2c2530b4c080"
       },
       {
         "id": "edge",
         "voice": "en-US-JennyNeural",
         "speed": 1,
-        "clips": 2177,
-        "build": "eee5281e748bebe5"
+        "clips": 2172,
+        "build": "914f7849734c5549"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "build": "eee5281e748bebe5",
+  "build": "914f7849734c5549",
   "voice": "en-US-JennyNeural",
   "speed": 1,
   "rate": "+0%",
@@ -9,8 +9,8 @@
   "format": "mp3",
   "runtime": "Microsoft Edge online TTS (generation only)",
   "wordCount": 850,
-  "clipCount": 2177,
-  "generatedAt": "2026-11-13T14:49:26.595302+00:00",
+  "clipCount": 2172,
+  "generatedAt": "2026-11-14T02:15:55.892568+00:00",
   "clips": [
     {
       "id": "apple",
@@ -23903,61 +23903,6 @@
       "durationSeconds": 2.4,
       "sampleRate": 24000,
       "rms": 0.0692107
-    },
-    {
-      "id": "good",
-      "kind": "praise",
-      "text": "Good",
-      "path": "audio/edge-jenny/praise/good.mp3",
-      "bytes": 11232,
-      "sha256": "8ddf5e93719d559615a0d83c218e25b3355e1e29f292ebf0a9c4cb9cd0bd3eb2",
-      "durationSeconds": 1.872,
-      "sampleRate": 24000,
-      "rms": 0.044398
-    },
-    {
-      "id": "great",
-      "kind": "praise",
-      "text": "Great",
-      "path": "audio/edge-jenny/praise/great.mp3",
-      "bytes": 11232,
-      "sha256": "184202326e7377d84462db11c7c8d1a783fb2d54e6f24c23cf81d49894f292a8",
-      "durationSeconds": 1.872,
-      "sampleRate": 24000,
-      "rms": 0.0555042
-    },
-    {
-      "id": "excellent",
-      "kind": "praise",
-      "text": "Excellent",
-      "path": "audio/edge-jenny/praise/excellent.mp3",
-      "bytes": 11232,
-      "sha256": "94fe82160634853a687f11e090420c7e2bebc1afca16729b7d202e21b5eb0e7e",
-      "durationSeconds": 1.872,
-      "sampleRate": 24000,
-      "rms": 0.0552435
-    },
-    {
-      "id": "amazing",
-      "kind": "praise",
-      "text": "Amazing",
-      "path": "audio/edge-jenny/praise/amazing.mp3",
-      "bytes": 11232,
-      "sha256": "784c8edd34002e958e3fff125092ce5ffee6612609457d1fb682fe79727ecbe4",
-      "durationSeconds": 1.872,
-      "sampleRate": 24000,
-      "rms": 0.070303
-    },
-    {
-      "id": "unbelievable",
-      "kind": "praise",
-      "text": "Unbelievable",
-      "path": "audio/edge-jenny/praise/unbelievable.mp3",
-      "bytes": 11232,
-      "sha256": "7b04adf36fb79cb14d40ba54a2ab698e2a0f69616d44ebb7d27233adc9ab9d84",
-      "durationSeconds": 1.872,
-      "sampleRate": 24000,
-      "rms": 0.0793205
     }
   ]
 }
