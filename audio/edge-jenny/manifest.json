@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "build": "914f7849734c5549",
+  "build": "8aa04bb292be28d2",
   "voice": "en-US-JennyNeural",
   "speed": 1,
   "rate": "+0%",
-  "sourceSha256": "7c376e768388942e3079eec874db2daf92be24647dec3ce6648d3d43c5fe5f35",
+  "sourceSha256": "c9733d0300c82a44ad861826fa94fd8c11211766ad9e556fc83b4ee8f37b50f4",
   "generator": "edge-tts 7.3.1",
   "format": "mp3",
   "runtime": "Microsoft Edge online TTS (generation only)",
   "wordCount": 850,
   "clipCount": 2172,
-  "generatedAt": "2026-11-14T02:15:55.892568+00:00",
+  "generatedAt": "2026-11-14T04:54:25.853438+00:00",
   "clips": [
     {
       "id": "apple",
@@ -4052,13 +4052,13 @@
     {
       "id": "g2-kitchen-cherry",
       "kind": "sentence",
-      "text": "I like cherries.",
+      "text": "I like a cherry.",
       "path": "audio/edge-jenny/sentences/g2-kitchen-cherry.mp3",
-      "bytes": 12240,
-      "sha256": "a3f049f092c0144c7ae856f46842ed0b7dc1390487726e5e6778c3e4ea6c3f61",
-      "durationSeconds": 2.04,
+      "bytes": 11808,
+      "sha256": "fc82d3a711bd8ee49449d645e92ef8ff252089685d1f17d457713c5bb9c663ac",
+      "durationSeconds": 1.968,
       "sampleRate": 24000,
-      "rms": 0.0789361
+      "rms": 0.0879756
     },
     {
       "id": "g2-kitchen-kiwifruit",
@@ -9816,13 +9816,13 @@
     {
       "id": "g3-cafe-cherry",
       "kind": "sentence",
-      "text": "I like cherries.",
+      "text": "I like a cherry.",
       "path": "audio/edge-jenny/sentences/g3-cafe-cherry.mp3",
-      "bytes": 12240,
-      "sha256": "a3f049f092c0144c7ae856f46842ed0b7dc1390487726e5e6778c3e4ea6c3f61",
-      "durationSeconds": 2.04,
+      "bytes": 11808,
+      "sha256": "fc82d3a711bd8ee49449d645e92ef8ff252089685d1f17d457713c5bb9c663ac",
+      "durationSeconds": 1.968,
       "sampleRate": 24000,
-      "rms": 0.0789361
+      "rms": 0.0879756
     },
     {
       "id": "g3-cafe-kiwifruit",
@@ -15393,13 +15393,13 @@
     {
       "id": "tidy-up",
       "kind": "sentence",
-      "text": "Keep your room tidy.",
+      "text": "Let's tidy up the cupboard.",
       "path": "audio/edge-jenny/sentences/tidy-up.mp3",
-      "bytes": 12528,
-      "sha256": "8783604c975f4e67cb144c85e7b0742b1ccb0b23382341c0be11fb752eb1178e",
-      "durationSeconds": 2.088,
+      "bytes": 13968,
+      "sha256": "e9e23bcdc531e674bd389c449c245554d042c15d2b47930e0644cb3544dc86d6",
+      "durationSeconds": 2.328,
       "sampleRate": 24000,
-      "rms": 0.0699611
+      "rms": 0.0733231
     },
     {
       "id": "tidy-up",
@@ -16757,13 +16757,13 @@
     {
       "id": "country",
       "kind": "sentence",
-      "text": "These stamps are from different countries.",
+      "text": "This stamp is from another country.",
       "path": "audio/edge-jenny/sentences/country.mp3",
-      "bytes": 17712,
-      "sha256": "8f07447d20976a79a95cdb5490790ec58a8f04f4b0d4d5581feebf866690abc9",
-      "durationSeconds": 2.952,
+      "bytes": 16416,
+      "sha256": "70344ddce0d4d1041bf40e674223b7df3f3986116f8eeef2102e535d080741c1",
+      "durationSeconds": 2.736,
       "sampleRate": 24000,
-      "rms": 0.0750829
+      "rms": 0.0879475
     },
     {
       "id": "country",
@@ -16955,13 +16955,13 @@
     {
       "id": "g5-hobbies-tidy-up",
       "kind": "sentence",
-      "text": "The puppy tidies up the albums.",
+      "text": "The puppy can tidy up the albums.",
       "path": "audio/edge-jenny/sentences/g5-hobbies-tidy-up.mp3",
-      "bytes": 16560,
-      "sha256": "e66db2c155469a0c3ee409cd3902ffda009154c0f66059a720210b54036a1b8d",
-      "durationSeconds": 2.76,
+      "bytes": 17280,
+      "sha256": "7406fb073ab4547c40149a968e2297176e769de0bb9aea7d0e4fed6707d9c197",
+      "durationSeconds": 2.88,
       "sampleRate": 24000,
-      "rms": 0.0700112
+      "rms": 0.0702727
     },
     {
       "id": "g5-hobbies-tidy-up",
@@ -17439,13 +17439,13 @@
     {
       "id": "invitation",
       "kind": "sentence",
-      "text": "Would you like to come to our open day?",
+      "text": "This is an invitation to our open day.",
       "path": "audio/edge-jenny/sentences/invitation.mp3",
-      "bytes": 15696,
-      "sha256": "6ac7ab6aaeb6abdcea431250b26e27f1ad87838c0e680847f8cebbcf0916c2cc",
-      "durationSeconds": 2.616,
+      "bytes": 17568,
+      "sha256": "ebf277ddb19915592f3f5d1ee8543d68bdd80a55e8b1057619893b01fe80b093",
+      "durationSeconds": 2.928,
       "sampleRate": 24000,
-      "rms": 0.0886356
+      "rms": 0.0866136
     },
     {
       "id": "invitation",

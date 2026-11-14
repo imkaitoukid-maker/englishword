@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "build": "151c2c2530b4c080",
+  "build": "a253566f6ff847ae",
   "generator": "Kokoro-82M v1.0 (FP32 ONNX)",
   "runtime": "ONNX Runtime CPU",
   "voice": "af_heart",
@@ -8,8 +8,8 @@
   "format": "mp3",
   "wordCount": 850,
   "clipCount": 2172,
-  "generatedAt": "2026-11-14T02:15:55.881082+00:00",
-  "sourceSha256": "7c376e768388942e3079eec874db2daf92be24647dec3ce6648d3d43c5fe5f35",
+  "generatedAt": "2026-11-14T04:54:23.243414+00:00",
+  "sourceSha256": "c9733d0300c82a44ad861826fa94fd8c11211766ad9e556fc83b4ee8f37b50f4",
   "clips": [
     {
       "id": "apple",
@@ -4051,13 +4051,13 @@
     {
       "id": "g2-kitchen-cherry",
       "kind": "sentence",
-      "text": "I like cherries.",
+      "text": "I like a cherry.",
       "path": "audio/sentences/g2-kitchen-cherry.mp3",
-      "bytes": 21888,
-      "sha256": "fb6441e9f62066e970cf6763acb005f2cbdb782476812db4d4d52d1d02d4937c",
-      "durationSeconds": 1.368,
+      "bytes": 20736,
+      "sha256": "885e7c94851c0ee8d57d985f0da67819dfacd30d57d96d1dfc8cdec0ae47ab39",
+      "durationSeconds": 1.296,
       "sampleRate": 24000,
-      "rms": 0.0543686
+      "rms": 0.0557327
     },
     {
       "id": "g2-kitchen-kiwifruit",
@@ -9815,13 +9815,13 @@
     {
       "id": "g3-cafe-cherry",
       "kind": "sentence",
-      "text": "I like cherries.",
+      "text": "I like a cherry.",
       "path": "audio/sentences/g3-cafe-cherry.mp3",
-      "bytes": 21888,
-      "sha256": "fb6441e9f62066e970cf6763acb005f2cbdb782476812db4d4d52d1d02d4937c",
-      "durationSeconds": 1.368,
+      "bytes": 20736,
+      "sha256": "885e7c94851c0ee8d57d985f0da67819dfacd30d57d96d1dfc8cdec0ae47ab39",
+      "durationSeconds": 1.296,
       "sampleRate": 24000,
-      "rms": 0.0543686
+      "rms": 0.0557327
     },
     {
       "id": "g3-cafe-kiwifruit",
@@ -15392,13 +15392,13 @@
     {
       "id": "tidy-up",
       "kind": "sentence",
-      "text": "Keep your room tidy.",
+      "text": "Let's tidy up the cupboard.",
       "path": "audio/sentences/tidy-up.mp3",
-      "bytes": 23424,
-      "sha256": "c6887551166fd04086a3736bad15f5c76de4cbf2e8ae4fb79b2681c6bc8e290d",
-      "durationSeconds": 1.464,
+      "bytes": 26112,
+      "sha256": "f59dcc15807bd62bf9834a3a55732041cabc1b0a355b16edbb9a799c8f9a97c7",
+      "durationSeconds": 1.632,
       "sampleRate": 24000,
-      "rms": 0.0557596
+      "rms": 0.0548804
     },
     {
       "id": "tidy-up",
@@ -16756,13 +16756,13 @@
     {
       "id": "country",
       "kind": "sentence",
-      "text": "These stamps are from different countries.",
+      "text": "This stamp is from another country.",
       "path": "audio/sentences/country.mp3",
-      "bytes": 35328,
-      "sha256": "eb9d97214bd35823ec4f5e1f1be65f1e0befc186755ba8649bc43a50eea2282d",
-      "durationSeconds": 2.208,
+      "bytes": 33024,
+      "sha256": "b1e626ea59e93b88deef1122e3ee40f1db2296c02718cb06d7557af44ce5cd9c",
+      "durationSeconds": 2.064,
       "sampleRate": 24000,
-      "rms": 0.0541547
+      "rms": 0.0550243
     },
     {
       "id": "country",
@@ -16954,13 +16954,13 @@
     {
       "id": "g5-hobbies-tidy-up",
       "kind": "sentence",
-      "text": "The puppy tidies up the albums.",
+      "text": "The puppy can tidy up the albums.",
       "path": "audio/sentences/g5-hobbies-tidy-up.mp3",
-      "bytes": 31872,
-      "sha256": "343022b722eaa606b1220b15343a74f704db7896865e9d8fb0b6b0f51808d594",
-      "durationSeconds": 1.992,
+      "bytes": 33792,
+      "sha256": "bd73530db31710f74c281aa8c9fb64781af97860b7839a6854b0e12d0dc303a6",
+      "durationSeconds": 2.112,
       "sampleRate": 24000,
-      "rms": 0.0516194
+      "rms": 0.0525746
     },
     {
       "id": "g5-hobbies-tidy-up",
@@ -17438,13 +17438,13 @@
     {
       "id": "invitation",
       "kind": "sentence",
-      "text": "Would you like to come to our open day?",
+      "text": "This is an invitation to our open day.",
       "path": "audio/sentences/invitation.mp3",
-      "bytes": 34944,
-      "sha256": "b7f768655e66d83e66b0c609056b038c55aecb69a228ab26c4a168a5b9c6dc99",
-      "durationSeconds": 2.184,
+      "bytes": 41088,
+      "sha256": "27f1aa702cfa405da305e1d6d57085b77a49b8ee64c503b06ca0af15f9c09834",
+      "durationSeconds": 2.568,
       "sampleRate": 24000,
-      "rms": 0.0551846
+      "rms": 0.0549962
     },
     {
       "id": "invitation",

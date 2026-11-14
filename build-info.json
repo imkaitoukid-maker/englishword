@@ -1,6 +1,6 @@
 {
-  "build": "655f0864d02b",
-  "generatedAt": "2026-11-14T04:12:51.204Z",
+  "build": "c3fed9ec5306",
+  "generatedAt": "2026-11-14T04:59:48.355Z",
   "shellFiles": [
     ".nojekyll",
     "art/approved-v3/animals.png",
@@ -81,8 +81,8 @@
     "art/grade6/rescue.png",
     "art/grade6/science.png",
     "art/grade6/wildlife.png",
-    "assets/index-BnryWRwC.css",
-    "assets/index-DfW1eIuG.js",
+    "assets/index-BPYtP3wp.css",
+    "assets/index-DpFBX8OB.js",
     "assets/pcm-worklet-CMvn5ZSB.js",
     "audio/edge-jenny/manifest.json",
     "audio/edge-jenny/prompts/a-few.mp3",
@@ -4908,14 +4908,14 @@
         "voice": "af_heart",
         "speed": 1,
         "clips": 2172,
-        "build": "151c2c2530b4c080"
+        "build": "a253566f6ff847ae"
       },
       {
         "id": "edge",
         "voice": "en-US-JennyNeural",
         "speed": 1,
         "clips": 2172,
-        "build": "914f7849734c5549"
+        "build": "8aa04bb292be28d2"
       }
     ]
   },
